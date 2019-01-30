@@ -1,4 +1,3 @@
-theme: jekyll-theme-midnight
 collections:
 	authors:
 		output: true
