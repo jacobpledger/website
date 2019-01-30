@@ -1,3 +1,10 @@
 ---
 ---
 @import "main";
+$site-background-color: #323232;
+$contrast-color: #969696;
+
+body {
+	background-color: $site-background-color;
+	color: $contrast-color;
+}
