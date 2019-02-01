@@ -1,8 +1,7 @@
 ---
 layout: default
-title: About
+title: jacobpledger.com
 ---
+# Jacob Pledger
 
-
-[Recipes](https://recipes.jacobpledger.com)
-[Referrals](referrals.md)
+Welcome to my website, as you can see, it's a work in progress.

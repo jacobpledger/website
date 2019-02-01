@@ -4,5 +4,9 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Dungeons & Dragons
+  link: /dungeons_and_dragons/index.md
 - name: Recipes
   link: https://recipes.jacobpledger.com
+- name: Referrals
+  link: /referrals.html
