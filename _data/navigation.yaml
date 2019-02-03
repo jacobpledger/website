@@ -5,8 +5,10 @@
 - name: Blog
   link: /blog.html
 - name: Dungeons & Dragons
-  link: /dungeons_and_dragons/index.md
+  link: /dungeons_and_dragons.html
 - name: Recipes
   link: https://recipes.jacobpledger.com
+- name: Contact
+  link: /contact.html
 - name: Referrals
   link: /referrals.html

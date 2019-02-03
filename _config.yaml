@@ -1,7 +1,8 @@
 collections:
   authors:
     output: true
-  d&d:
+  dungeons_and_dragons:
+    output: true
 
 defaults:
   - scope:
