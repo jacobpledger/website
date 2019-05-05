@@ -3,6 +3,8 @@ collections:
     output: true
   dungeons_and_dragons:
     output: true
+  recipes:
+    output: true
 
 defaults:
   - scope:
@@ -14,3 +16,8 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
