@@ -2,12 +2,19 @@
 layout: default
 title: Recipes
 ---
-
-# Recipes
----
-
-<ul>
-  {% for item in site.recipes %}
-    <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
-  {% endfor %}
-</ul>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+	<link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+  <h1>Recipes</h1>
+	<ul>
+    {% for item in site.recipes %}
+      <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+  </body>
+</html>
