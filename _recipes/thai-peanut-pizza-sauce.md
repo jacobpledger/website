@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Jacob
+
 ---
 
 # Thai Peanut Pizza Sauce

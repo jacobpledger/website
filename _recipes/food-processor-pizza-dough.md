@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Jacob
+
 ---
 
 # Food Processor Pizza Dough

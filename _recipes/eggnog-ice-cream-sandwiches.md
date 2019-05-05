@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Jacob
+
 ---
 
 # Eggnog Ice Cream Sandwiches

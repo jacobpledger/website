@@ -1,6 +1,5 @@
 ---
 layout: recipe
-author: Jacob
 ---
 # Asparagus Soup
 

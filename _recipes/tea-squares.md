@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Jacob
+
 ---
 
 # Lynn's Tea Squares (Ethel Merrton Squares)
