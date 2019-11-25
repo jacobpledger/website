@@ -11,10 +11,12 @@ title: Recipes
   </head>
   <body>
   <h1>Recipes</h1>
-	<ul>
-    {% for item in site.recipes %}
-      <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
-    {% endfor %}
-  </ul>
+  <div>
+    <ul>
+      {% for item in site.recipes %}
+        <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
   </body>
 </html>
