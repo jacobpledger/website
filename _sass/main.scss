@@ -16,7 +16,7 @@ html {
 }
 
 footer {
-  background-color: transparentize($color: black, $amount: 80);
+  background-color: transparentize($color: black, $amount: 0.8);
   height: 100px;
   width: 100%;
   li {
