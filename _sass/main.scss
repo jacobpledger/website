@@ -3,6 +3,10 @@
   background-color: black;
 }
 
+nav {
+  background-color: slategray;
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -10,9 +14,10 @@ html {
 }
 
 footer {
-  background-color: #3F704D;
+  background-color: slategray;
   position: fixed;
   bottom: 0;
   height: 100px;
+  width: max-content;
   margin-top: 20px;
 }
