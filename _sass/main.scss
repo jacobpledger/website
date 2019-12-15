@@ -15,9 +15,20 @@ html {
 }
 
 nav {
+  background-color: transparent;
+
+  &::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+}
+
+.navigation{
   color: whitesmoke;
-  background-color: transparent
-  a {
+  list-style: none;
+  float: left;
+  a:link {
       text-decoration: none;
   }
 }
