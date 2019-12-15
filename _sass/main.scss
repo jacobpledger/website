@@ -16,10 +16,14 @@ html {
 }
 
 footer {
-  background-color: darkslategray;
+  background-color: transparentize($color: black, $amount: 80);
   height: 100px;
   width: 100%;
   li {
     display: inline-block;
+    margin-left: 30px;
+    &:first-child {
+      margin-left: 0px;
+    }
   }
 }
