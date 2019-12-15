@@ -1,12 +1,22 @@
+$site-background-color: #323232;
+$contrast-color: #969696;
+
 .current {
   color: orange;
   background-color: black;
 }
 
+html {
+  background-color: $site-background-color;
+  color: $contrast-color;
+}
+
 nav {
   color: whitesmoke;
-  text-decoration: none;
   background-color: transparent
+  a {
+      text-decoration: none;
+  }
 }
 
 html {
