@@ -9,6 +9,9 @@ $contrast-color: #969696;
 html {
   background-color: $site-background-color;
   color: $contrast-color;
+  position: relative;
+  min-height: 100%;
+  padding: 0 0 300px;
 }
 
 nav {
@@ -17,12 +20,6 @@ nav {
   a {
       text-decoration: none;
   }
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-  padding: 0 0 300px;
 }
 
 footer {
