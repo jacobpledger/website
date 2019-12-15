@@ -16,20 +16,17 @@ html {
 
 nav {
   background-color: transparent;
-
-  &::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-}
-
-.navigation{
   color: whitesmoke;
   list-style: none;
   float: left;
   a:link {
       text-decoration: none;
+  }
+
+  &::after {
+    content: "";
+    clear: both;
+    display: table;
   }
 }
 
