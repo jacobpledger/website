@@ -4,10 +4,10 @@
   link: /about.html
 - name: Blog
   link: /blog.html
-- name: Dungeons & Dragons
-  link: /dungeons_and_dragons.html
+- name: D&D
+  link: https://dnd.jacobpledger.ca
 - name: Recipes
-  link: /recipes.html
+  link: https://recipes.jacobpledger.ca
 - name: Contact
   link: /contact.html
 - name: Links
