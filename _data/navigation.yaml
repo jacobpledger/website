@@ -3,7 +3,7 @@
 - name: About
   link: /about.html
 - name: Blog
-  link: /blog.html
+  link: https://blog.jacobpledger.ca
 - name: D&D
   link: https://dnd.jacobpledger.ca
 - name: Recipes
