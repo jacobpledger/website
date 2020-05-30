@@ -1,5 +1,4 @@
 $site-background-color: #323232;
-$body-background-color: #323232;
 $contrast-color: #969696;
 $body-content-margin: 30px;
 
@@ -9,7 +8,6 @@ $body-content-margin: 30px;
 }
 
 html {
-  background-color: grey;
   color: $contrast-color;
   min-height: 100%;
   font-family: "Trebuchet MS", sans-serif;
@@ -26,19 +24,19 @@ nav {
 }
 
 .navigation{
-  color: whitesmoke;
+  color: forestgreen;
   list-style: none;
   float: left;
   li {
     display: inline-block;
     margin: 20px;
     a {
-      color: whitesmoke;
+      color: forestgreen;
       text-decoration: none;
       text-transform: uppercase;
       font-family: "Trebuchet MS", sans-serif;
       &:hover {
-        color: orange;
+        color: slategray;
       }
     }
   }
@@ -48,13 +46,13 @@ body {
   background-color: transparent;
   li {
     a {
-      color: whitesmoke;
+      color: forestgreen;
       text-decoration: none;
       font-family: "Trebuchet MS", sans-serif;
     }
   }
   a {
-    color: whitesmoke;
+    color: forestgreen;
     text-decoration: none;
     font-family: "Trebuchet MS", sans-serif;
   }
