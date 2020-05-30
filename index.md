@@ -1,6 +1,5 @@
 ---
 layout: default
-title: jacobpledger.com
 ---
 
 I'm Jacob Pledger, a gamer, developer, and geek of many things. Welcome to my website, as you can (probably) see, it's a work in progress.
