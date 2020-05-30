@@ -1,5 +1,4 @@
 $site-background-color: #323232;
-$contrast-color: #969696;
 $body-content-margin: 30px;
 
 .current {
@@ -8,7 +7,6 @@ $body-content-margin: 30px;
 }
 
 html {
-  color: $contrast-color;
   min-height: 100%;
   font-family: "Trebuchet MS", sans-serif;
 }
@@ -34,7 +32,6 @@ nav {
       color: forestgreen;
       text-decoration: none;
       text-transform: uppercase;
-      font-family: "Trebuchet MS", sans-serif;
       &:hover {
         color: slategray;
       }
@@ -48,19 +45,16 @@ body {
     a {
       color: forestgreen;
       text-decoration: none;
-      font-family: "Trebuchet MS", sans-serif;
     }
   }
   a {
     color: forestgreen;
     text-decoration: none;
-    font-family: "Trebuchet MS", sans-serif;
   }
 }
 
 .body-content {
-  background-color: $site-background-color;
-  padding: 20px;
+  padding: 1em;
   margin: $body-content-margin;
 }
 
