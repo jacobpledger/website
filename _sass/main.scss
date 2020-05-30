@@ -1,8 +1,8 @@
 $body-content-margin: 30px;
-$transparent-background: transparentize($color: black, $amount: 0.2);
+$transparent-background: transparentize($color: black, $amount: 0.8);
 
 .current {
-  color: royalblue;
+  color: whitesmoke;
 }
 
 html {
@@ -11,9 +11,9 @@ html {
 }
 
 a {
-  color: forestgreen;
+  color: steelblue;
   &:hover {
-    color: maroon;
+    color: gray;
   }
 }
 
@@ -66,14 +66,6 @@ footer {
     margin-left: 30px;
     &:first-child {
       margin-left: 0px;
-    }
-  }
-  a {
-    color: whitesmoke;
-    text-decoration: none;
-    font-family: "Trebuchet MS", sans-serif;
-    &:hover {
-      color: orange;
     }
   }
 }
