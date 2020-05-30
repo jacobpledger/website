@@ -1,4 +1,5 @@
 $body-content-margin: 30px;
+$transparent-background: transparentize($color: black, $amount: 0.2);
 
 .current {
   color: royalblue;
@@ -9,8 +10,15 @@ html {
   font-family: "Trebuchet MS", sans-serif;
 }
 
+a {
+  color: forestgreen;
+  &:hover {
+    color: maroon;
+  }
+}
+
 nav {
-  background-color: transparent;
+  background-color: $transparent-background;
 
   &::after {
     content: "";
@@ -19,35 +27,26 @@ nav {
   }
 }
 
+body {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+
+
+
+
+
 .navigation{
-  color: forestgreen;
   list-style: none;
   float: left;
   li {
     display: inline-block;
-    margin: 20px;
+    margin: 0.5em;
     a {
-      color: forestgreen;
-      text-decoration: none;
       text-transform: uppercase;
-      &:hover {
-        color: slategray;
-      }
     }
-  }
-}
-
-body {
-  background-color: transparent;
-  li {
-    a {
-      color: forestgreen;
-      text-decoration: none;
-    }
-  }
-  a {
-    color: forestgreen;
-    text-decoration: none;
   }
 }
 
@@ -57,7 +56,8 @@ body {
 }
 
 footer {
-  background-color: transparentize($color: black, $amount: 0.8);
+  background-color: $transparent-background;
+  border-radius: 0.5em;
   height: 50px;
   padding: 10px;
   margin: $body-content-margin;
