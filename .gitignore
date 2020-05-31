@@ -1,6 +1,7 @@
 # Jekyll stuff
 .ruby-version
 .sass-cache/
+.jekyll-cache/
 
 # Ignore the compiled site
 _site/
