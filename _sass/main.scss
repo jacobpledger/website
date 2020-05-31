@@ -35,6 +35,13 @@ html {
       padding: 0em;
     }
   }
+  .recipe-list {
+    ul {
+      list-style: none;
+      column-count: 5;
+      column-width: 150px;
+    }
+  }
   .social {
     ul {
       list-style: none;

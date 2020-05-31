@@ -1,0 +1,12 @@
+---
+layout: recipe
+title: Recipes
+---
+<h1>Recipes</h1>
+<div class="recipe-list">
+<ul>
+    {% for item in site.recipes %}
+    <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
+</div>
