@@ -1,9 +1,11 @@
 collections:
   dungeons-and-dragons:
     output: true
+  posts:
+    output: true
   recipes:
     output: true
-collections_dir: /collections
+collections_dir: collections
 
 defaults:
   - scope:
