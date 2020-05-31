@@ -3,6 +3,14 @@ layout: default
 title: Dungeons & Dragons
 ---
 <div class="post-list">
+<h2>Bestiary</h2>
+    <ul>
+        {% for item in site.dungeons-and-dragons %}
+        {% if item.category == "bestiary" %}
+          <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
 <h2>Gods</h2>
 <ul>
     {% for item in site.dungeons-and-dragons %}
