@@ -2,6 +2,7 @@
 layout: person
 title: Paton Duststone
 campaign: david
+category: people
 ---
 
 Race: Human Male

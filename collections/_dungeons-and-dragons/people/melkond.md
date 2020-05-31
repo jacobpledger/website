@@ -3,6 +3,7 @@ layout: person
 title: Grand Wizard Melkond
 name: Grand Wizard Melkond
 campaign: david
+category: people
 ---
 Race: Human Male
 

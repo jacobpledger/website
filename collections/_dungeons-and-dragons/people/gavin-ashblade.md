@@ -2,6 +2,7 @@
 layout: person
 title: Gavin Ashblade
 campaign: david
+category: people
 ---
 
 Race: Half-Elf Male

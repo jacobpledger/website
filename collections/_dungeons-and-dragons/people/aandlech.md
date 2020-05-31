@@ -2,6 +2,7 @@
 layout: person
 title: Aandlech
 campaign: david
+category: people
 ---
 
 Race: Tiefling Female

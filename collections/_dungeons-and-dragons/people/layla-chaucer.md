@@ -2,6 +2,7 @@
 layout: person
 title: Layla Chaucer
 campaign: david
+category: people
 ---
 
 Race: Human Female

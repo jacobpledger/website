@@ -2,6 +2,7 @@
 layout: person
 title: Sahjah
 campaign: david
+category: people
 ---
 
 Race: Tiefling Female

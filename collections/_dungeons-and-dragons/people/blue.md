@@ -2,6 +2,7 @@
 layout: person
 title: Blue
 campaign: david
+category: people
 ---
 
 Race: Faerie Dragon

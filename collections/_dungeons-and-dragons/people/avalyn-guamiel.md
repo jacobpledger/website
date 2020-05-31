@@ -2,6 +2,7 @@
 layout: person
 title: Avalyn Guamiel
 campaign: david
+category: people
 ---
 
 Race: Medusa Female

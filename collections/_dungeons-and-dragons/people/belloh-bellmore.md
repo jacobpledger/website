@@ -2,6 +2,7 @@
 layout: person
 title: Belloh Bellmore
 campaign: david
+category: people
 ---
 
 Race: Dwarf Male

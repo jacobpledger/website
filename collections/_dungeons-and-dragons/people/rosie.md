@@ -2,6 +2,7 @@
 layout: person
 title: Rosie
 campaign: david
+category: people
 ---
 
 Race: Metallic Dragon

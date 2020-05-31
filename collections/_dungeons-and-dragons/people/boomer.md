@@ -2,6 +2,7 @@
 layout: person
 title: Boomer
 campaign: david
+category: people
 ---
 
 Race: Gif Male

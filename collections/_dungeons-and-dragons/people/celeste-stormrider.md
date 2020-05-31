@@ -2,6 +2,7 @@
 layout: person
 title: Celeste Stormrider
 campaign: david
+category: people
 ---
 
 Race: Human Female
