@@ -1,4 +1,7 @@
 html {
+  .current {
+    color: black;
+  }
   min-height: 100%;
   font-family: "Trebuchet MS", sans-serif;
   min-width: 320px;
@@ -6,75 +9,40 @@ html {
     max-width: 620px;
     margin: 0 auto;
     padding: 1em;
+    a {
+      color: steelblue;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
     nav {
       ul {
         padding: 0em;
+        li {
+          display: inline-block;
+        }
       }
     }
-  }
-}
-a {
-  color: steelblue;
-}
-
-
-$body-content-margin: 30px;
-$transparent-background: transparentize($color: black, $amount: 0.8);
-
-.current {
-  color: whitesmoke;
-}
-
-
-a {
-  color: steelblue;
-  &:hover {
-    color: gray;
-  }
-}
-
-nav {
-  background-color: $transparent-background;
-
-  &::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-}
-
-
-
-
-
-.navigation{
-  list-style: none;
-  float: left;
-  li {
-    display: inline-block;
-    margin: 0.5em;
-    a {
-      text-transform: uppercase;
+    hr {           
+      background-color:black;
+      height: 1px;
     }
   }
-}
-
-.body-content {
-  padding: 1em;
-  margin: $body-content-margin;
-}
-
-footer {
-  background-color: $transparent-background;
-  border-radius: 0.5em;
-  height: 50px;
-  padding: 10px;
-  margin: $body-content-margin;
-  li {
-    display: inline-block;
-    margin-left: 30px;
-    &:first-child {
-      margin-left: 0px;
+  .post-list {
+    ul {
+      list-style: none;
+      padding: 0em;
+    }
+  }
+  .social {
+    ul {
+      list-style: none;
+    }
+  }
+  .affiliates {
+    ul {
+      list-style: none;
     }
   }
 }
