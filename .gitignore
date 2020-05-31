@@ -5,3 +5,6 @@
 
 # Ignore the compiled site
 _site/
+
+# Mac Junk
+.DS_Store
