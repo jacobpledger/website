@@ -1,13 +1,7 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Blog
-  link: https://blog.jacobpledger.ca
-- name: D&D
-  link: https://dnd.jacobpledger.ca
-- name: Recipes
-  link: https://recipes.jacobpledger.ca
+  link: /blog.html
 - name: Contact
   link: /contact.html
 - name: Links
