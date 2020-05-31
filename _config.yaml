@@ -1,10 +1,9 @@
 collections:
-  cast:
-    output: true
-  dungeons_and_dragons:
+  dungeons-and-dragons:
     output: true
   recipes:
     output: true
+collections_dir: /collections
 
 defaults:
   - scope:
