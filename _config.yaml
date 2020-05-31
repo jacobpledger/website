@@ -5,7 +5,7 @@ collections:
     output: true
   recipes:
     output: true
-collections_dir: collections
+collections_dir: "collections"
 
 defaults:
   - scope:
