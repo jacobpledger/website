@@ -3,7 +3,7 @@ html {
     color: black;
   }
   min-height: 100%;
-  font-family: "Trebuchet MS", sans-serif;
+  font-family: sans-serif;
   min-width: 320px;
   body {
     max-width: 620px;
@@ -24,7 +24,7 @@ html {
         }
       }
     }
-    hr {           
+    hr {
       background-color:black;
       height: 1px;
     }
@@ -40,6 +40,9 @@ html {
       list-style: none;
       column-count: 5;
       column-width: 150px;
+    }
+    li {
+      padding: 0.4em;
     }
   }
   .ingredient-list {
