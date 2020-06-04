@@ -5,7 +5,7 @@ layout: default
 # Lynn's Tea Squares (Ethel Merrton Squares)
 
 <div class="ingredients">
-<h2></h2>
+<h2>Ingredients</h2>
     <ul class="ingredient-list">
         <li><label><input type="checkbox">2 Tbsp Butter</label></li>
         <li><label><input type="checkbox">2 Eggs</label></li>
@@ -26,6 +26,7 @@ layout: default
         <li><label><input type="checkbox">Pour over butter. Do not stir in pan.</label></li>
         <li><label><input type="checkbox">Bake at 350℉ for 20 minutes.</label></li>
     </ul>
+</div>
 
 ## Notes
 

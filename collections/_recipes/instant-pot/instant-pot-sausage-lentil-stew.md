@@ -8,8 +8,9 @@ tags:
 
 Prep Time: 10 minutes Cook Time: 25 minutes Yield: 6-8 servings
 
-### Ingredients:
-
+<div class="ingredients">
+<h2>Ingredients</h2>
+    <ul class="ingredient-list">
 <li><label><input type="checkbox">2 tablespoons olive oil</label></li>
 <li><label><input type="checkbox">1lb Italian sausage</label></li>
 <li><label><input type="checkbox">1 large onion, chopped</label></li>
@@ -24,9 +25,12 @@ Prep Time: 10 minutes Cook Time: 25 minutes Yield: 6-8 servings
 <li><label><input type="checkbox">5 Cups chicken stock</label></li>
 <li><label><input type="checkbox">1 1/2 Cups dry lentils, rinsed and picked over (preferably French Green Lentils)</label></li>
 <li><label><input type="checkbox">1 cup finely chopped kale (optional)</label></li>
+</ul>
+</div>
 
-### Directions:
-
+<div class="directions">
+<h2>Directions</h2>
+    <ul class="direction-list">
 <li><label><input type="checkbox">Press the SAUTE button on the instant pot and let preheat for 1-2 minutes.</label></li>
 <li><label><input type="checkbox">Add the olive oil and Italian sausage.</label></li>
 <li><label><input type="checkbox">Cook, breaking into small pieces with a spoon, until no longer pink.</label></li>
@@ -38,7 +42,9 @@ Prep Time: 10 minutes Cook Time: 25 minutes Yield: 6-8 servings
 <li><label><input type="checkbox">When the time is up let the pressure release naturally for 10 minutes, then quick release the rest of the steam.</label></li>
 <li><label><input type="checkbox">Stir in the chopped kale.</label></li>
 <li><label><input type="checkbox">Serve topped with parmesan cheese if desired.</label></li>
-￼
+</ul>
+</div>
+
 ### Notes:
 
 * This recipe makes a larger batch
