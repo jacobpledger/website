@@ -3,4 +3,19 @@ layout: default
 title: Links
 ---
 <h1>Links</h1>
+These links are for services I use that give me credit if you use them to sign up:
 {% include affiliates.html %}
+
+And <b>these</b> are a bunch of cool sites I like:
+<ul class="blogroll">
+    {% for item in site.data.blogroll %}
+    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+</ul>
+
+And finally, here are a bunch of good podcasts:
+<ul class="podcast-list">
+    {% for item in site.data.podcasts %}
+    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+    {% endfor %}
+</ul>
