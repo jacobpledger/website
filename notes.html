@@ -1,0 +1,12 @@
+---
+layout: default
+title: Notes
+---
+<h1>Notes</h1>
+<div class="notes-section">
+<ul>
+    {% for item in site.notes %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
+</div>

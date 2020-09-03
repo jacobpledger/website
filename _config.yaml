@@ -1,9 +1,14 @@
+name: jacobpledger.ca
+description: Jacob Pledger's Hypertext Home
+
 collections:
   dungeons-and-dragons:
     output: true
   posts:
     output: true
   recipes:
+    output: true
+  notes:
     output: true
 collections_dir: "collections"
 
@@ -17,3 +22,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+
+plugins:
+  - jekyll-feed
