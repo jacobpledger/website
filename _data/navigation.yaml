@@ -12,3 +12,7 @@
   link: /links.html
 - name: Calendars
   link: /calendars.html
+- name: Notes
+  link: /notes.html
+- name: RSS
+  link: /feed.xml
