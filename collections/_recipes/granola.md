@@ -7,7 +7,7 @@ title: Granola
 
 <div class="ingredients">
 <h2>Ingredients</h2>
-<ul>
+<ul class="ingredient-list">
 <li><label><input type="checkbox">6 Cups oats</label></li>
 <li><label><input type="checkbox">1 Cup red wheat bran</label></li>
 <li><label><input type="checkbox">1 Cup milled flaxseed</label></li>
@@ -26,13 +26,11 @@ title: Granola
 
 <div class="directions">
 <h2>Directions</h2>
-<ul>
+<ul class="direction-list">
 <li><label><input type="checkbox">Mix dry ingredients in shallow roasting pan.</label></li>
 <li><label><input type="checkbox">Mix the wet ingredients in a liquid measuring cup.</label></li>
 <li><label><input type="checkbox">Microwave wet mixture until hot.</label></li>
 <li><label><input type="checkbox">Pour wet mixture over granola and mix.</label></li>
 <li><label><input type="checkbox">Bake at 250℉ for 1 hour, stiring every 15 minutes.</label></li>
 </ul>
-
-### Notes:
-
+</div>
