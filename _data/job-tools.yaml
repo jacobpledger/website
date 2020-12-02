@@ -1,0 +1,48 @@
+- name: Apache NiFi
+  link: https://nifi.apache.org
+# - name: Brave
+#   link: https://brave.com/
+- name: Django
+  link: https://www.djangoproject.com
+- name: Django REST Framework
+  link: https://www.django-rest-framework.org
+- name: Docker
+  link: https://www.docker.com
+- name: Elasticsearch
+  link: https://www.elastic.co
+# - name: Firefox
+#   link: https://www.mozilla.org/firefox/
+- name: Git
+  link: https://git-scm.com/
+- name: GitHub
+  link: https://github.com
+# - name: iOS
+#   link: https://www.apple.com/ios/
+- name: Jira
+  link: https://www.atlassian.com/software/jira
+- name: Python
+  link: https://www.python.org
+- name: RabbitMQ
+  link: https://www.rabbitmq.com
+- name: Redis
+  link: https://redis.io
+- name: Slack
+  link: https://slack.com/
+- name: Sublime Merge
+  link: https://www.sublimemerge.com
+- name: Sublime Text
+  link: https://www.sublimetext.com
+- name: tmux
+  link: https://tmux.github.io/
+- name: Vagrant
+  link: https://www.vagrantup.com
+- name: Vim
+  link: https://www.vim.org
+- name: VirtualBox
+  link: https://www.virtualbox.org
+- name: Visual Studio Code
+  link: https://code.visualstudio.com
+# - name: Xubuntu
+#   link: https://xubuntu.org
+# - name: Zsh
+#   link: https://www.zsh.org

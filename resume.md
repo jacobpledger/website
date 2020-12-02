@@ -45,9 +45,13 @@ This has made me a skilled Python developer with a proven background in developi
 <div class="tools">
 <h2 id="tools">Tools and Technologies</h2>
 <ul class="tool-list">
-{% for tool in site.job-tools %}
-<li><a href="{{ tool.url }}">{{ tool.name }}</a></li>
+{% for item in site.data.job-tools %}
+<li><a href="{{ item.link }}">{{ item.name }}</a></li>
 {% endfor %}
+
+<!-- {% for item in site.data.podcasts %}
+<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %} -->
 </ul>
 </div>
 
