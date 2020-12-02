@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I'm Jacob Pledger, a gamer, developer, and geek of many things. Welcome to my website, as you can (probably) see, it's a work in progress.
+I'm Jacob Pledger, a gamer, developer, and geek of many things. Welcome to my website.
 
-I currently program cool things for a living at <a href="https://www.farmersedge.ca">Farmers Edge</a>. 
+I currently program cool things for a living at [Farmers Edge](https://www.farmersedge.ca). Perhaps you'd like to check out my [résumé](/resume.html).
 
 Previously, I worked on the "data warehousing" side of things, creating and maintaining our big data systems for ingesting and handling collected farm device data.
 
