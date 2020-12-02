@@ -92,20 +92,19 @@ This has made me a skilled Python developer with a proven background in developi
 		<li>Dean’s Honour List for Fall 2010 Semester</li>
 	</ul>
 	</li>
-<li>
-<li>
-<h3>Bow Valley High School - Sept 2005 to June 2008</h3>
-<h4> Scholarships & Awards</h4>
-<ul class="award-list">
-<li>Alexander Rutherford Scholarship, June 2008</li>
-</ul>
-</li>
-</li>
-<li><h3>Other</h3>
-<ul>
-<li>Class 5 Driver’s license</li>
-</ul>
-</li>
+	<li>
+		<h3>Bow Valley High School - Sept 2005 to June 2008</h3>
+		<h4> Scholarships & Awards</h4>
+		<ul class="award-list">
+			<li>Alexander Rutherford Scholarship, June 2008</li>
+		</ul>
+	</li>
+	<li>
+		<h3>Other</h3>
+		<ul>
+			<li>Class 5 Driver’s license</li>
+		</ul>
+	</li>
 </ul>
 
 </div>
