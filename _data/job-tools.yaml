@@ -2,6 +2,8 @@
   link: https://nifi.apache.org
 # - name: Brave
 #   link: https://brave.com/
+- name: Celery
+  link: https://docs.celeryproject.org/
 - name: Django
   link: https://www.djangoproject.com
 - name: Django REST Framework
@@ -42,7 +44,7 @@
   link: https://www.virtualbox.org
 - name: Visual Studio Code
   link: https://code.visualstudio.com
-# - name: Xubuntu
-#   link: https://xubuntu.org
+- name: Xubuntu
+  link: https://xubuntu.org
 # - name: Zsh
 #   link: https://www.zsh.org
