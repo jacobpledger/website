@@ -6,7 +6,7 @@ layout: default
 
 <div class="ingredients">
 <h2>Ingredients</h2>
-    <ul class="ingredient-list">
+<ul class="ingredient-list">
 <li><label><input type="checkbox">3 Tbsp Olive Oil</label></li>
 <li><label><input type="checkbox">1 Cup Onion (finely chopped)</label></li>
 <li><label><input type="checkbox">3­-4 Cloves of garlic (finely chopped)</label></li>
@@ -24,7 +24,7 @@ layout: default
 
 <div class="directions">
 <h2>Directions</h2>
-    <ul class="direction-list">
+<ul class="direction-list">
 <li><label><input type="checkbox">In a large enamel or stainless steel saucepan, heat oil and cook chopped onions, stirring frequently but do not brown (about 7 mins).</label></li>
 <li><label><input type="checkbox">Add chopped garlic and cook for another 1 or 2 minutes, stirring constantly.</label></li>
 <li><label><input type="checkbox">$2</label></li>

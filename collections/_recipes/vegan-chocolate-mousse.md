@@ -1,16 +1,19 @@
 ---
 layout: default
+title: Chocolate Mousse
 ---
 
-# Vegan Chocolate Mousse
- 
+# Chocolate Mousse
+
 * makes: 4 portions (160 ml each)
-* prep: 20 min
-* cooking: 0 min
+*
+prep: 20 min
+*
+cooking: 0 min
 
 <div class="ingredients">
 <h2>Ingredients</h2>
-    <ul class="ingredient-list">
+<ul class="ingredient-list">
 <li><label><input type="checkbox">1 cup /240 ml aquafaba (from 400g / 14 oz can of low-sodium chickpeas OR home cooked chickpeas)</label></li>
 <li><label><input type="checkbox">140 g dark (70% cocoa) vegan chocolate</label></li>
 <li><label><input type="checkbox">20 g / 1 heaped tsbp white caster sugar (optional, SEE NOTES)*</label></li>
@@ -24,8 +27,7 @@ GARNISH (optional)
 
 <div class="directions">
 <h2>Directions</h2>
-    <ul class="direction-list">
-<li><label><input type="checkbox">This recipe contains a step-by-step VIDEO (see above).</label></li>
+<ul class="direction-list">
 <li><label><input type="checkbox">Break the chocolate into smaller chunks and melt it very slowly over a water bath. My electric hob goes from 1-6, I used setting #2 to melt the chocolate – it’s important to do it slowly so that chocolate doesn’t overheat. Once the chocolate has melted, take the bowl off the water bath and place it on a kitchen towel to cool down a little.</label></li>
 <li><label><input type="checkbox">Open your tin of chickpeas and drain the chickpea water into large glass bowl. The bowl and the utensils you’ll use to whip aquafaba need to be completely grease-free as even the tiniest grease residue can prevent aquafaba from reaching stiff peaks. One 400 g tin should give you 240 ml / 1 cup of chickpea water. Reserve the chickpeas for another use, like a salad or burgers.</label></li>
 <li><label><input type="checkbox">Using an electric egg whisk, whip the chickpea water into stiff peaks – this is super important. The best way to check if you have achieved stiff peaks is to invert the bowl with whipped aquafaba. If aquafaba slides down even a tiny bit, you are not there yet – keep on whipping until it does not move at all. I used an old, hand-held whisk and it took me about 15 minutes to get stiff peaks. If you are a lucky owner of a stand mixer, it will happen quicker. The good news is that (as opposed to egg whites) aquafaba cannot be overwhipped.</label></li>
@@ -38,5 +40,7 @@ GARNISH (optional)
 </div>
 
 ### Notes
+
+* If you use the liquid from home-cooked chickpeas, it must be quite concentrated. You may need to reduce it first.
 
 * The exact amount of sugar depends on your taste and how sweet your chocolate is. Sugar isn’t necessary though.

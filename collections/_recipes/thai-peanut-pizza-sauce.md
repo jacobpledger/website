@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Thai Peanut Pizza Sauce
 ---
 
 # Thai Peanut Pizza Sauce
@@ -7,8 +8,8 @@ layout: default
 <div class="ingredients">
 <h2>Ingredients:</h2>
 <ul class="ingredient-list">
-<li><label><input type="checkbox">3/8 cup peanut butter</label></li>
-<li><label><input type="checkbox">1/8 cup hoisin sauce</label></li>
+<li><label><input type="checkbox">3/8 Cup peanut butter</label></li>
+<li><label><input type="checkbox">1/8 Cup hoisin sauce</label></li>
 <li><label><input type="checkbox">2 Tbsp lemon juice</label></li>
 <li><label><input type="checkbox">2 tsp grated ginger root</label></li>
 <li><label><input type="checkbox">1 tsp honey</label></li>
@@ -31,4 +32,5 @@ layout: default
 <h2>Notes:</h2>
 Covers 2 pizzas.
 When making this at the same time as the pizza, you can place the pot over the oven's venting burner to reuse heat from the oven instead of turning on the burner.
+If using natural peanut butter, you will not need much heat and it will be done quickly.
 </div>

@@ -7,23 +7,23 @@ layout: default
 <h2>Ingredients</h2>
 
 <h3>Soup:</h3>
-    <ul class="ingredient-list">
-        <li><label><input type="checkbox">6 slices bacon, chopped, or 60 mL (1/4 cup) chopped pancetta</label></li>
-        <li><label><input type="checkbox">30 mL (2 tbsp) crème fraîche or plain Greek yogourt</label></li>
-        <li><label><input type="checkbox">5 mL (1tsp) butter</label></li>
-        <li><label><input type="checkbox">1 medium onion, chopped</label></li>
-        <li><label><input type="checkbox">1 kg (2lbs) asparagus, tough ends snapped off</label></li>
-        <li><label><input type="checkbox">1.4 L (6 cups) chicken stock</label></li>
-        <li><label><input type="checkbox">salt and pepper to taste</label></li>
-    </ul>
+<ul class="ingredient-list">
+<li><label><input type="checkbox">6 slices bacon, chopped, or 60 mL (1/4 cup) chopped pancetta</label></li>
+<li><label><input type="checkbox">30 mL (2 tbsp) crème fraîche or plain Greek yogourt</label></li>
+<li><label><input type="checkbox">5 mL (1tsp) butter</label></li>
+<li><label><input type="checkbox">1 medium onion, chopped</label></li>
+<li><label><input type="checkbox">1 kg (2lbs) asparagus, tough ends snapped off</label></li>
+<li><label><input type="checkbox">1.4 L (6 cups) chicken stock</label></li>
+<li><label><input type="checkbox">salt and pepper to taste</label></li>
+</ul>
 
 <h3>Dill Croutons:</h3>
-    <ul class="ingredient-list">
-        <li><label><input type="checkbox">60 mL (1/4 cup) butter</label></li>
-        <li><label><input type="checkbox">1/2 load of any style artisanal bread, cut into 2.5-cm (1 inch) cubes</label></li>
-        <li><label><input type="checkbox">10 mL (2 tsp) chopped fresh dill</label></li>
-        <li><label><input type="checkbox">salt and pepper to taste</label></li>
-    </ul>
+<ul class="ingredient-list">
+<li><label><input type="checkbox">60 mL (1/4 cup) butter</label></li>
+<li><label><input type="checkbox">1/2 load of any style artisanal bread, cut into 2.5-cm (1 inch) cubes</label></li>
+<li><label><input type="checkbox">10 mL (2 tsp) chopped fresh dill</label></li>
+<li><label><input type="checkbox">salt and pepper to taste</label></li>
+</ul>
 </div>
 
 <div class="directions">

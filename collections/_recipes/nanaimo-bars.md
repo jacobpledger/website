@@ -1,13 +1,14 @@
 ---
 layout: default
+title: Nanaimo Bars
 ---
 
-# Nanaimo bars
+# Nanaimo Bars
 
 <div class="ingredients">
 <h2>Ingredients</h2>
-Base:
-    <ul class="ingredient-list">
+<h3>Base:</h3>
+<ul class="ingredient-list">
 <li><label><input type="checkbox">2 sq. Baker’s Semi-sweet Chocolate, melted and cooled</label></li>
 <li><label><input type="checkbox">2 Cups / 500mL graham wafer crumbs</label></li>
 <li><label><input type="checkbox">1 Cup / 250mL Baker’s Angel Flake Coconut</label></li>
@@ -19,16 +20,16 @@ Base:
 </ul>
 
 
-Filling:
-    <ul class="ingredient-list">
+<h3>Filling:</h3>
+<ul class="ingredient-list">
 <li><label><input type="checkbox">1/4 Cup / 50mL softened butter</label></li>
 <li><label><input type="checkbox">3 tbsp / 45mL milk</label></li>
 <li><label><input type="checkbox">2 tbsp / 30mL Bird’s Custard Powder</label></li>
 <li><label><input type="checkbox">2 Cups / 500mL icing sugar, sifted</label></li>
 </ul>
 
-Glaze
-    <ul class="ingredient-list">
+<h3>Glaze:</h3>
+<ul class="ingredient-list">
 <li><label><input type="checkbox">4 sq. Baker’s semi-sweet chocolate</label></li>
 <li><label><input type="checkbox">1 tbsp / 15mL butter</label></li>
 </ul>
