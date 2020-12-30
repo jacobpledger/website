@@ -3,34 +3,10 @@ layout: default
 title: Dungeons & Dragons
 ---
 <div class="post-list">
-<h2>Bestiary</h2>
-    <ul>
-        {% for item in site.dungeons-and-dragons %}
-        {% if item.category == "bestiary" %}
-          <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-<h2>Gods</h2>
+<h2>Player Characters</h2>
 <ul>
     {% for item in site.dungeons-and-dragons %}
-    {% if item.category == "gods" %}
-      <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-<h2>People</h2>
-<ul>
-    {% for item in site.dungeons-and-dragons %}
-    {% if item.category == "people" %}
-      <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
-    {% endif %}
-    {% endfor %}
-  </ul>
-<h2>Places</h2>
-<ul>
-    {% for item in site.dungeons-and-dragons %}
-    {% if item.category == "places" %}
+    {% if item.category == "player" %}
       <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
     {% endif %}
     {% endfor %}
