@@ -10,6 +10,8 @@ collections:
     output: true
   notes:
     output: true
+  positions:
+    output: true
 collections_dir: "collections"
 
 defaults:
