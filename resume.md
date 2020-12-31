@@ -8,8 +8,8 @@ title: Jacob Pledger's Résumé
 <section class="toc">
 <ol class="resume-toc">
 <li><a href="#summary">Summary</a></li>
-<li><a href="#experience">Experience</a></li>
 <li><a href="#tools">Tools/Technologies</a></li>
+<li><a href="#experience">Experience</a></li>
 <li><a href="#education">Education</a></li>
 </ol>
 </section>
@@ -28,6 +28,17 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 
 ---
 
+<section class="tools">
+<h2 id="tools">Tools and Technologies</h2>
+<ul class="tool-list">
+{% for item in site.data.job-tools %}
+<li><a href="{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+</section>
+
+---
+
 <section class="work-experience">
 <h2 id="experience">Experience</h2>
 {% for position in site.positions reversed %}
@@ -40,16 +51,6 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 
 ---
 
-<section class="tools">
-<h2 id="tools">Tools and Technologies</h2>
-<ul class="tool-list">
-{% for item in site.data.job-tools %}
-<li><a href="{{ item.link }}">{{ item.name }}</a></li>
-{% endfor %}
-</ul>
-</section>
-
----
 
 <section class="education">
 <h2 id="education">Education</h2>
