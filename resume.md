@@ -53,7 +53,6 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 
 ---
 
-
 <section class="education">
 <h2 id="education">Education</h2>
 <ul class="education-list">
@@ -65,7 +64,6 @@ GPA: 3.17/4.00<br>
 <br>
 Courses Include:
 <ul class="courses-list">
-<li>Digital Systems</li>
 <li>Practical Software Development</li>
 <li>Computer Architecture</li>
 <li>Software Engineering</li>
@@ -85,17 +83,20 @@ Courses Include:
 <li>Mathematical Concepts</li>
 <li>Calculus I</li>
 <li>Introduction to Probability and Statistics</li>
+<li>Digital Systems</li>
+<li>Fundamentals of Programming 2</li>
+<li><a href="https://www.cs.uleth.ca/~benkoczi/1620/">Fundamentals of Programming 1</a></li>
 </ul>
 <h4>Scholarships & Awards</h4>
 <ul class="award-list">
 <li><a href="http://www.cs.uleth.ca/~wismath/spring12/">Won best project in Computer Graphics course 2012</a></li>
-<li>Jason Lang Scholarship, Fall 2011</li>
+<li><a href="https://uleth.academicworks.ca/opportunities/4128">Jason Lang Scholarship, Fall 2011</a></li>
 <li>Dean’s Honour List for Fall 2010 Semester</li>
 </ul>
 </li>
 <li>
 <h3>Bow Valley High School - Sept 2005 to June 2008</h3>
-<h4> Scholarships & Awards</h4>
+<h4>Scholarships & Awards</h4>
 <ul class="award-list">
 <li>Alexander Rutherford Scholarship, June 2008</li>
 </ul>
