@@ -1,6 +1,6 @@
 ---
 layout: job-position
-title: System Administrator
+title: Computer Scientist
 ---
 <section class="job-date">
 April 2014 – August 2014
