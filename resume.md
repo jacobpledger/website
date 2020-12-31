@@ -41,7 +41,7 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 
 <section class="work-experience">
 <h2 id="experience">Experience</h2>
-<ul class="job-position-list"
+<ul class="job-position-list">
 {% for position in site.positions reversed %}
 <li>
 <h2><a href="{{ post.url }}">{{ position.title }}</a></h2>
