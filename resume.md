@@ -41,14 +41,14 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 
 <section class="work-experience">
 <h2 id="experience">Experience</h2>
-<ul class="job-position-list">
+<ol reversed class="job-position-list">
 {% for position in site.positions reversed %}
 <li>
 <h2><a href="{{ position.url }}">{{ position.title }}</a></h2>
 <p>{{ position.content }}</p>
 </li>
 {% endfor %}
-</ul>
+</ol>
 </section>
 
 ---
@@ -82,20 +82,27 @@ Co-operative Education Designation<br>
 </details>
 </section>
 
-<h4>Scholarships & Awards</h4>
+<details>
+<summary>Scholarships & Awards</summary>
 <ul class="award-list">
-<li><a href="http://www.cs.uleth.ca/~wismath/spring12/">Won best project in Computer Graphics course 2012</a></li>
+<li><a href="http://www.cs.uleth.ca/~wismath/spring12/">Won best project in Computer Graphics course, Spring 2012</a></li>
 <li><a href="https://uleth.academicworks.ca/opportunities/4128">Jason Lang Scholarship, Fall 2011</a></li>
 <li>Dean’s Honour List for Fall 2010 Semester</li>
 </ul>
+</details>
+
 </li>
+
 <li>
 <h3>Bow Valley High School</h3>
-Sept 2005 to June 2008<br>
-<h4>Scholarships & Awards</h4>
+<section class ="education-date"><time datetime="2005-09">Sept 2005</time> to <time datetime="2008-06">June 2008</time></section>
+<br>
+<details>
+<summary>Scholarships & Awards</summary>
 <ul class="award-list">
 <li>Alexander Rutherford Scholarship, June 2008</li>
 </ul>
+</details>
 </li>
 <li>
 <h3>Other</h3>
