@@ -1,0 +1,159 @@
+- name: Fundamentals of Programming I
+  number: CPSC 1620
+  link: "https://www.cs.uleth.ca/~benkoczi/1620/"
+
+- name: Discrete Structures
+  number: CPSC 1820
+  link: "https://www.cs.uleth.ca/~benkoczi/1820/"
+
+- name: Introduction to Digital Systems
+  number: CPSC 2610
+  link:
+
+- name: Fundamentals of Programming II
+  number: CPSC 2620
+  link:
+
+- name: Practical Software Development
+  number: CPSC 2720
+  link:
+
+- name: Computer Architecture
+  number: CPSC 3615
+  link:
+
+- name: Data Structures and Algorithms
+  number: CPSC 3620
+  link:
+
+- name: Theoretical Foundations of Computing
+  number: CPSC 3630
+  link:
+
+- name: Operating Systems
+  number: CPSC 3655
+  link:
+
+- name: Introduction to Database Systems
+  number: CPSC 3660
+  link:
+
+- name: Computer Graphics
+  number: CPSC 3710
+  link:
+
+- name: Introduction to Software Engineering
+  number: CPSC 3720
+  link:
+
+- name: Cryptography
+  number: CPSC 3730
+  link:
+
+- name: Programming Languages
+  number: CPSC 3740
+  link:
+
+- name: Data Communications and Networking
+  number: CPSC 3780
+  link:
+
+- name: VLSI Digital Design and Synthesis
+  number: CPSC 3850
+  link:
+
+- name: Introduction to Reversible Logic
+  number: CPSC 4210
+  link:
+
+- name: Distributed Systems
+  number: CPSC 4780
+  link:
+
+- name: Visual Programming Applications
+  number: MGT 3821
+  link:
+
+- name: Elementary Linear Algebra
+  number: MATH 1410
+  link:
+
+- name: Calculus I
+  number: MATH 1560
+  link:
+
+- name: Mathematical Concepts
+  number: MATH 2000
+  link:
+
+- name: Introduction to Probability and Statistics
+  number: STAT 1770
+  link:
+
+- name: Beginners' Japanese I
+  number: JPNS 1000
+  link:
+
+- name: Beginners' Japanese II
+  number: JPNS 1100
+  link:
+
+- name: Intermediate Language I
+  number: JPNS 1500
+  link:
+
+- name: Intermediate Language II
+  number: JPNS 2000
+  link:
+
+- name: Advanced Language
+  number: JPNS 3001
+  link:
+
+- name: Japanese Culture
+  number: numberST 2008
+  link:
+
+- name: Japanese Society and Culture
+  number: MODL 2850
+  link:
+
+- name: "Introduction to Linguistics I: Phonetics and Phonology"
+  number: LING 2300
+  link:
+
+- name: "Introduction to Linguistics II: Morphology, Syntax and Semantics"
+  number: LING 2600
+  link:
+
+- name: Introduction to Macroeconomics
+  number: ECON 1012
+  link:
+
+- name: Introduction to Microeconomics
+  number: ECON 1010
+  link:
+
+- name: Economics of Recreation and Tourism
+  number: ECON 2850
+  link:
+
+- name: Introduction to Philosophy
+  number: PHIL 1000
+  link:
+
+- name: Brain and Behaviour
+  number: NEUR 2600
+  link:
+
+- name: Modern Astronomy
+  number: ASTR 2020
+  link:
+
+- name: Ancient Societies
+  number: ANTH 2320
+  link:
+
+- name: Introduction to Archaeology
+  number: ARKY 1000
+  link:

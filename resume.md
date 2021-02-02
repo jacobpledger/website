@@ -57,60 +57,30 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 <h2 id="education">Education</h2>
 <ul class="education-list">
 <li>
-<h3>University of Lethbridge - Sept 2008 to Oct 2014</h3>
-B.Sc. Computer Science, Minor: Japanese<br>
+<h3>University of Lethbridge</h3>
+<section class="education-major">B.Sc. Computer Science</section>
+<section class="education-minor">Minor: Japanese</section>
+<section class ="education-date"><time datetime="2008-09">Sept 2008</time> to <time datetime="2014-10-18">Oct 2014</time></section>
+<section class="education-gpa">GPA: 3.17/4.00</section>
 Co-operative Education Designation<br>
-GPA: 3.17/4.00<br>
 <br>
-Courses Include:
-<ul class="courses-list">
-<li><a href="https://www.cs.uleth.ca/~benkoczi/1620/">Fundamentals of Programming I (CPSC 1620)</a></li>
-<li>Discrete Structures (CPSC 1820)</li>
-<li>Introduction to Digital Systems (CPSC 2610)</li>
-<li>Fundamentals of Programming 2 (CPSC 2620)</li>
-<li>Practical Software Development (CPSC 2720)</li>
-<li>Computer Architecture (CPSC 3615)</li>
-<li>Data Structures and Algorithms (CPSC 3620)</li>
-<li>Theoretical Foundations of Computing (CPSC 3630)</li>
-<li>Operating Systems (CPSC 3655)</li>
-<li>Introduction to Database Systems (CPSC 3660)</li>
-<li>Computer Graphics (CPSC 3710)</li>
-<li>Introduction to Software Engineering (CPSC 3720)</li>
-<li>Cryptography (CPSC 3730)</li>
-<li>Programming Languages (CPSC 3740)</li>
-<li>Data Communications and Networking (CPSC 3780)</li>
-<li>VLSI Digital Design and Synthesis (CPSC 3850)</li>
-<li>Introduction to Reversible Logic (CPSC 4210)</li>
-<li>Distributed Systems (CPSC 4780)</li>
 
-<li>Visual Programming Applications (MGT 3821)</li>
-
-<li>Elementary Linear Algebra (MATH 1410)</li>
-<li>Calculus I (MATH 1560)</li>
-<li>Mathematical Concepts (MATH 2000)</li>
-<li>Introduction to Probability and Statistics (STAT 1770)</li>
-
-<li>Beginners' Japanese I (JPNS 1000)</li>
-<li>Beginners' Japanese II (JPNS 1100)</li>
-<li>Intermediate Language I (JPNS 1500)</li>
-<li>Intermediate Language II (JPNS 2000)</li>
-<li>Advanced Language (JPNS 3001)</li>
-<li>Japanese Culture (IDST 2008)</li>
-<li>Japanese Society and Culture (MODL 2850)</li>
-
-<li>Introduction to Linguistics I: Phonetics and Phonology (LING 2300)</li>
-<li>Introduction to Linguistics II: Morphology, Syntax and Semantics (LING 2600)</li>
-
-<li>Introduction to Macroeconomics (ECON 1012)</li>
-<li>Introduction to Microeconomics (ECON 1010)</li>
-<li>Economics of Recreation and Tourism (ECON 2850)</li>
-
-<li>Introduction to Philosophy (PHIL 1000)</li>
-<li>Brain and Behaviour (NEUR 2600)</li>
-<li>Modern Astronomy (ASTR 2020)</li>
-<li>Ancient Societies (ANTH 2320)</li>
-<li>Introduction to Archaeology (ARKY 1000)</li>
-</ul>
+<section class="education-courses">
+<details>
+<summary>Courses</summary>
+<dl class="courses-list">
+{% for course in site.data.courses %}
+{% if course.link %}
+<dt>{{ course.number }}</dt>
+<dd><a href="{{ course.link }}">{{ course.name }}</a></dd>
+{% else %}
+<dt>{{ course.number }}</dt>
+<dd>{{ course.name }}</dd>
+{% endif %}
+{% endfor %}
+</dl>
+</details>
+</section>
 
 <h4>Scholarships & Awards</h4>
 <ul class="award-list">
@@ -120,7 +90,8 @@ Courses Include:
 </ul>
 </li>
 <li>
-<h3>Bow Valley High School - Sept 2005 to June 2008</h3>
+<h3>Bow Valley High School</h3>
+Sept 2005 to June 2008<br>
 <h4>Scholarships & Awards</h4>
 <ul class="award-list">
 <li>Alexander Rutherford Scholarship, June 2008</li>
