@@ -1,6 +1,7 @@
 ---
 layout: job-position
 title: IT Support Staff
+collapse: true
 ---
 <section class="job-date">
 June 2011 – September 2011

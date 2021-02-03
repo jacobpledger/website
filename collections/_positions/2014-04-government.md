@@ -1,6 +1,7 @@
 ---
 layout: job-position
 title: Computer Scientist
+collapse: true
 ---
 <section class="job-date">
 April 2014 – August 2014

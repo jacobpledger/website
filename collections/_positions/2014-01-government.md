@@ -1,6 +1,7 @@
 ---
 layout: job-position
 title: System Administrator
+collapse: true
 ---
 <section class="job-date">
 January 2014 – April 2014

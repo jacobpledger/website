@@ -1,6 +1,7 @@
 ---
 layout: job-position
 title: Sales Associate
+collapse: true
 ---
 <section class="job-date">
  June 2013 – December 2013
