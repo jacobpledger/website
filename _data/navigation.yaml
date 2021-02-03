@@ -12,6 +12,8 @@
   link: /links.html
 - name: Calendars
   link: /calendars.html
+- name: About
+  link: /about.html
 - name: Notes
   link: /notes.html
 - name: RSS
