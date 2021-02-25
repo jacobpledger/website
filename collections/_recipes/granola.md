@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe
 title: Granola
 ---
 
@@ -22,7 +22,7 @@ title: Granola
 <li><label><input type="checkbox">½ tsp nutmeg</label></li>
 <li><label><input type="checkbox">1 tsp cloves</label></li>
 </ul>
-</div>
+</section>
 
 <section class="directions">
 <h2>Directions</h2>
