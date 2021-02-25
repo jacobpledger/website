@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: recipe
 title: Thai Peanut Pizza Sauce
 ---
 
-# Thai Peanut Pizza Sauce
+<h1>Thai Peanut Pizza Sauce</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients:</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">3/8 Cup peanut butter</label></li>
@@ -18,19 +18,21 @@ title: Thai Peanut Pizza Sauce
 <li><label><input type="checkbox">1 tsp minced garlic</label></li>
 <li><label><input type="checkbox">crushed red pepper flakes</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions:</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">Combine all ingredients in a small saucepan.</label></li>
 <li><label><input type="checkbox">Heat on low, stirring constantly, until mixed.</label></li>
 <li><label><input type="checkbox">Remove from heat and let cool slightly.</label></li>
-</ul>
-</div>
-<div class="notes">
+</ol>
+</section>
+
+<section class="notes">
 <h2>Notes:</h2>
-Covers 2 pizzas.
-When making this at the same time as the pizza, you can place the pot over the oven's venting burner to reuse heat from the oven instead of turning on the burner.
-If using natural peanut butter, you will not need much heat and it will be done quickly.
-</div>
+<ul class="notes-list">
+<li>Covers 2 pizzas.</li>
+<li>When making this at the same time as the pizza, you can place the pot over the oven's venting burner to reuse heat from the oven instead of turning on the burner.
+If using natural peanut butter, you will not need much heat and it will be done quickly.</li>
+</section>
