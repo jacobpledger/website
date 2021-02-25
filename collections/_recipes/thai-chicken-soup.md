@@ -1,12 +1,13 @@
 ---
-layout: default
+layout: recipe
+title: Thai Chicken Soup
 ---
 
-# Thai Chicken Soup
+<h1>Thai Chicken Soup</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
-    <ul class="ingredient-list">
+<ul class="ingredient-list">
 <li><label><input type="checkbox">1.5 Cups Mushrooms, sliced</label></li>
 <li><label><input type="checkbox">1/2 Cups Onion</label></li>
 <li><label><input type="checkbox">1 Carrot, julienned</label></li>
@@ -25,19 +26,22 @@ layout: default
 <li><label><input type="checkbox">Rice (optional)</label></li>
 <li><label><input type="checkbox">Orzo (optional)</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-    <ul class="direction-list">
+<ul class="direction-list">
 <li><label><input type="checkbox">Fry mushrooms, remove. Fry pepper, onion, carrot, remove. Fry chicken.</label></li>
 <li><label><input type="checkbox">Add veggies back in, add broth, heat.</label></li>
 <li><label><input type="checkbox">Add lemongrass, Worcestershire, fish sauce, cook 5 minutes.</label></li>
 <li><label><input type="checkbox">Add cream and coconut milk, cover and let simmer for 2 minutes.</label></li>
 <li><label><input type="checkbox">In small bowl mix curry paste, tomato paste, cornstarch and water. Stir into soup and cook for 5 minutes.</label></li>
 </ul>
-</div>
+</section>
 
-### Notes:
-
-* Add rice or orzo for additional substance
+<section class="notes">
+<h2>Notes</h2>
+<ul class="notes-list">
+<li>Add rice or orzo for additional substance.</li>
+</ul>
+</section>
