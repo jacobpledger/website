@@ -3,9 +3,9 @@ layout: default
 title: Granola
 ---
 
-# Granola
+<h1>Granola</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">6 Cups oats</label></li>
@@ -24,13 +24,13 @@ title: Granola
 </ul>
 </div>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">Mix dry ingredients in shallow roasting pan.</label></li>
 <li><label><input type="checkbox">Mix the wet ingredients in a liquid measuring cup.</label></li>
 <li><label><input type="checkbox">Microwave wet mixture until hot.</label></li>
 <li><label><input type="checkbox">Pour wet mixture over granola and mix.</label></li>
-<li><label><input type="checkbox">Bake at 250℉ for 1 hour, stiring every 15 minutes.</label></li>
-</ul>
-</div>
+<li><label><input type="checkbox">Bake at 250℉ for 1 hour, stirring every 15 minutes.</label></li>
+</ol>
+</section>
