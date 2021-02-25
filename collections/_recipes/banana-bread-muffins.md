@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe
 title: Banana Bread
 ---
 
@@ -19,7 +19,7 @@ title: Banana Bread
 <li><label><input type="checkbox">pinch of salt</label></li>
 <li><label><input type="checkbox">(Optional) 1 Cup chocolate chips</label></li>
 </ul>
-</div>
+</section>
 
 <section class="directions">
 <h2>Directions</h2>
@@ -29,7 +29,7 @@ title: Banana Bread
 <li><label><input type="checkbox">Mix the dry mixture into the wet</label></li>
 <li><label><input type="checkbox">Mix in chocolate chips</label></li>
 </ol>
-</div>
+</section>
 
 <section class="Notes">
 <h2>Notes</h2>
