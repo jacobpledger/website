@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
-# Fish Chowder
+<h1>Fish Chowder</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">4 Strips Bacon</label></li>
@@ -19,11 +19,11 @@ layout: default
 <li><label><input type="checkbox">Rosemary</label></li>
 <li><label><input type="checkbox">Thyme</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">Cut bacon into small pieces.</label></li>
 <li><label><input type="checkbox">In the pot, fry the bacon.</label></li>
 <li><label><input type="checkbox">Remove bacon and drain grease.</label></li>
@@ -45,5 +45,5 @@ layout: default
 <li><label><input type="checkbox">Mix cornstarch and cold water.</label></li>
 <li><label><input type="checkbox">Add cornstarch and water as desired to thicken.</label></li>
 <li><label><input type="checkbox">Top with rosemary and thyme.</label></li>
-</ul>
-</div>
+</ol>
+</section>
