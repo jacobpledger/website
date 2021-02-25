@@ -1,5 +1,6 @@
 ---
 layout: recipe
+title: Mona's Hot Biscuits
 ---
 
 <h1>Mona’s Hot Biscuits</h1>
