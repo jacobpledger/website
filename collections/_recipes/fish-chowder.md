@@ -1,5 +1,6 @@
 ---
 layout: recipe
+title: Fish Chowder
 ---
 
 <h1>Fish Chowder</h1>
