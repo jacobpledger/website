@@ -2,9 +2,10 @@
 layout: default
 title: Banana Bread
 ---
-# Banana Bread / Muffins
 
-<div class="ingredients">
+<h1>Banana Bread / Muffins</h1>
+
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">2 eggs</label></li>
@@ -16,21 +17,24 @@ title: Banana Bread
 <li><label><input type="checkbox">1 tsp baking powder</label></li>
 <li><label><input type="checkbox">1 tsp baking soda</label></li>
 <li><label><input type="checkbox">pinch of salt</label></li>
-<li><label><input type="checkbox">1 Cup chocolate chips</label></li>
+<li><label><input type="checkbox">(Optional) 1 Cup chocolate chips</label></li>
 </ul>
 </div>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">In a large bowl, mix eggs, bananas, sour cream, and oil</label></li>
 <li><label><input type="checkbox">In a smaller bowl, mix sugar, flour, baking powder, baking soda, and salt</label></li>
 <li><label><input type="checkbox">Mix the dry mixture into the wet</label></li>
 <li><label><input type="checkbox">Mix in chocolate chips</label></li>
-</ul>
+</ol>
 </div>
 
-## Notes
-
-* For muffins, bake at 350℉ for 20 minutes
-* For loaf, bake at 325 for about 1 hour
+<section class="Notes">
+<h2>Notes</h2>
+<ul class="notes-list">
+<li>For muffins, bake at 350℉ for 20 minutes</li>
+<li>For loaf, bake at 325 for about 1 hour</li>
+</ul>
+</section>
