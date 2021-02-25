@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: recipe
 title: Beef and Broccoli
 ---
 
-# Beef and Broccoli
+<h1>Beef and Broccoli</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">3 tablespoons cornstarch, divided</label></li>
@@ -21,11 +21,11 @@ title: Beef and Broccoli
 <li><label><input type="checkbox">teaspoon ground ginger</label></li>
 <li><label><input type="checkbox">hot cooked rice</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">In a bowl, combine 2 tablespoons cornstarch, 2 tablespoons water and garlic powder until smooth.</label></li>
 <li><label><input type="checkbox">Add beef and toss.</label></li>
 <li><label><input type="checkbox">In a large skillet or wok over medium high heat, stir-fry beef in 1 tablespoon oil until beef reaches desired doneness; remove and keep warm.</label></li>
@@ -34,5 +34,5 @@ title: Beef and Broccoli
 <li><label><input type="checkbox">Combine 1/3 cup soy sauce, 2 tbsp brown sugar, tsp ginger and remaining 1tbsp cornstarch and water until smooth; add to the pan.</label></li>
 <li><label><input type="checkbox">Cook and stir for 2 minutes.</label></li>
 <li><label><input type="checkbox">Serve over rice.</label></li>
-</ul>
-</div>
+</ol>
+</section>
