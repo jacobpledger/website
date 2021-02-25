@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: recipe
 title: Red Lentil Nuggets
 ---
 
-# Red Lentil Nuggets
+<h1>Red Lentil Nuggets</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">1 ½ Cups lentils (255 g)</label></li>
@@ -19,11 +19,11 @@ title: Red Lentil Nuggets
 <li><label><input type="checkbox">½ teaspoon red pepper flakes</label></li>
 <li><label><input type="checkbox">1 clove garlic</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-<ul class="direction-list">
+<ol class="direction-list">
 <li><label><input type="checkbox">In a medium bowl, soak the lentils in cold water for 3 hours.</label></li>
 <li><label><input type="checkbox">Preheat the oven to 400ºF (200ºC). Line a baking sheet with parchment paper.</label></li>
 <li><label><input type="checkbox">In a food processor, combine the soaked lentils, carrot, corn, peas, vegan cheese, oregano, salt, pepper, red pepper flakes, and garlic, and pulse until well mixed.</label></li>
@@ -31,11 +31,13 @@ title: Red Lentil Nuggets
 <li><label><input type="checkbox">Bake for 20 minutes, flipping halfway, until golden brown.</label></li>
 <li><label><input type="checkbox">Or, pan fry with a small drizzle of oil over medium-high heat until both sides are golden brown, about 10 minutes.</label></li>
 <li><label><input type="checkbox">Allow to cool 5 minutes.</label></li>
+</ol>
+</section>
+
+<section class="notes">
+<h2>Notes</h2>
+<ul class="notes-list">
+<li>Makes 6 servings</li>
+<li><a href="https://tasty.co/recipe/lentil-nuggets">Original Recipe</a></li>
 </ul>
-</div>
-
-## Notes
-
-Makes 6 servings
-
-[source](https://tasty.co/recipe/lentil-nuggets)
+</section>
