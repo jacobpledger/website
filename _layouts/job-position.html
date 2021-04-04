@@ -7,6 +7,12 @@
 		{% include navigation.html %}
 		<hr class="separator">
 		<div class="body-content">
+			<section class="job-location">
+				{{page.location}}
+			</section>
+			<section class="job-date">
+				<time datetime="{{page.start-date}}">{{ page.start-date | date: "%B %Y" }}</time> - <time datetime="page.end-date">{{ page.end-date | date: "%B %Y" }}</time>
+			</section>
 			{{ content }}
 		</div>
 	</body>

@@ -1,16 +1,13 @@
 ---
 layout: job-position
 title: IT Support Staff
+company: Agriculture and Agri-food Canada
+location: Lethbridge, AB, Canada
+start-date: 2011-06
+end-date: 2011-09
 collapse: true
 ---
-<section class="job-date">
-June 2011 – September 2011
-</section>
-
-<section class="job-location">
-Agriculture and Agri-food Canada, Lethbridge, AB - Co-op Work Experience II
-</section>
-
+Co-op Work Experience II
 <section class="job-tasks">
 <ul>
 <li>Diagnosed and fixed various computer and printer issues</li>

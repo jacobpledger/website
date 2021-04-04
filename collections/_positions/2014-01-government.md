@@ -1,16 +1,13 @@
 ---
 layout: job-position
 title: System Administrator
+company: Government of Canada
+location: Ottawa, ON, Canada
+start-date: 2014-01
+end-date: 2014-04
 collapse: true
 ---
-<section class="job-date">
-January 2014 – April 2014
-</section>
-
-<section class="job-location">
-Department of Defence, Ottawa, ON - Co-op Work Experience III, Top Secret Security Clearance
-</section>
-
+Co-op Work Experience III, Top Secret Security Clearance
 <section class="job-tasks">
 <ul>
 <li>Converted large script for LDAP to Active Directory synchronization from shell into Perl</li>

@@ -1,16 +1,13 @@
 ---
 layout: job-position
 title: Computer Scientist
+company: Government of Canada
+location: Ottawa, ON, Canada
+start-date: 2014-04
+end-date: 2014-08
 collapse: true
 ---
-<section class="job-date">
-April 2014 – August 2014
-</section>
-
-<section class="job-location">
-Department of Defence, Ottawa, ON - Co-op Work Experience IV, Top Secret Security Clearance
-</section>
-
+Co-op Work Experience IV, Top Secret Security Clearance
 <section class="job-tasks">
 <ul>
 <li>Rewrote improved disk sanitization program in shell and TCL</li>
