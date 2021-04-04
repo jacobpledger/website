@@ -2,12 +2,12 @@
 layout: job-position
 title: Software Developer
 company: Farmers Edge
+department: Cloud
 location: Lethbridge, AB, Canada
 start-date: 2015-05
 end-date: May 2020
 collapse: false
 ---
-Cloud Operations
 <section class="job-tasks">
 <ul class="job-tasks-list">
 <li>Created and maintained backend for ingestion and management of streaming CanPlug data</li>

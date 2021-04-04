@@ -1,16 +1,13 @@
 ---
 layout: job-position
 title: Sales Associate
+company: Walmart
+department: Mobile
+location: Lethbridge, AB, Canada
+start-date: 2013-06
+end-date: 2013-12
 collapse: true
 ---
-<section class="job-date">
- June 2013 – December 2013
-</section>
-
-<section class="job-location">
- Walmart (North), Lethbridge, AB
-</section>
- 
 <section class="job-tasks">
 <ul>
 <li>Sold phones and plans from various carriers</li>

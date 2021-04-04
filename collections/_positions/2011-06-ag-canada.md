@@ -2,6 +2,7 @@
 layout: job-position
 title: IT Support Staff
 company: Agriculture and Agri-food Canada
+department: IT
 location: Lethbridge, AB, Canada
 start-date: 2011-06
 end-date: 2011-09

@@ -2,6 +2,7 @@
 layout: job-position
 title: System Administrator
 company: Government of Canada
+department: Department of Defence
 location: Ottawa, ON, Canada
 start-date: 2014-01
 end-date: 2014-04
