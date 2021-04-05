@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: GCP Grey - Spaceship You
 ---
 
