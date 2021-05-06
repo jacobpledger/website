@@ -5,3 +5,7 @@ layout: default
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
+
+<section class="permalink">
+<a href="{{ page.url }}">link to this post</a>
+</section>
