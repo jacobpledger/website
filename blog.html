@@ -6,8 +6,9 @@ title: Blog
 <ul>
     {% for post in site.posts %}
     <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <h2><a href="{{ post.external_link | default: post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.content }}</p>
+        [<a href="{{ post.url }}">link to this post</a>]
     </li>
     {% endfor %}
 </ul>
