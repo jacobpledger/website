@@ -44,7 +44,7 @@ I have been a Software Developer at Farmers Edge for 5 years. For most of it I w
 <ol reversed class="job-position-list">
 {% for position in site.positions reversed %}
 <li>
-<h2><a href="{{ position.url }}">{{ position.title }}</a></h2>
+<h2><a href="{{ position.url }}">{{position.company}} - {{ position.title }}</a></h2>
 {% if position.collapse %}<details>{% else %}<details open>{% endif %}
 <p>{{ position.content }}</p>
 </details>
