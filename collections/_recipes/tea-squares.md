@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
-# Lynn's Tea Squares (Ethel Merrton Squares)
+<h1>Lynn's Tea Squares (Ethel Merrton Squares)</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">2 Tbsp Butter</label></li>
@@ -16,9 +16,9 @@ layout: default
 <li><label><input type="checkbox">1/2 Cup Coconut</label></li>
 <li><label><input type="checkbox">1 tsp Vanilla</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
 <ul class="direction-list">
 <li><label><input type="checkbox">Melt butter.</label></li>
@@ -26,8 +26,9 @@ layout: default
 <li><label><input type="checkbox">Pour over butter. Do not stir in pan.</label></li>
 <li><label><input type="checkbox">Bake at 350℉ for 20 minutes.</label></li>
 </ul>
-</div>
+</section>
 
-## Notes
-
-* You can add 1/4 cup raisins and / or chocolate chips
+<section class="notes">
+<h2>Notes</h2>
+<li>You can add 1/4 cup raisins and / or chocolate chips</li>
+</section>

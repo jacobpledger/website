@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: recipe
 title: Queen Elizabeth Cake
 ---
 
 # Queen Elizabeth Cake
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">1 Cup dates</label></li>
@@ -27,9 +27,9 @@ Icing
 <li><label><input type="checkbox">3 Tbsp cream</label></li>
 <li><label><input type="checkbox">1/2 Cup chopped nuts</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
 <ul class="direction-list">
 <li><label><input type="checkbox">Bring water to a boil.</label></li>
@@ -48,4 +48,4 @@ Icing
 <li><label><input type="checkbox">Add nuts</label></li>
 <li><label><input type="checkbox">Pour over warm cake</label></li>
 <li><label><input type="checkbox">Place under broiler until brown.</label></li>
-</div>
+</section>
