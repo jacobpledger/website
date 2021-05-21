@@ -26,6 +26,7 @@ collapse: false
 <li>Perform code reviews and collaborate with my team to find the best possible solutions</li>
 <li>Work closely with DevOps to manage deployments and troubleshoot issues</li>
 <li>Work with other teams to plan and prioritize new features, as well as deal with bugs, incidents and other problems</li>
+<li>Upgraded from Python 2 to Python 3</li>
 <li>Team operated for a year without a manager, able to independently coordinate to keep things running</li>
 <li>Participate in daily scrums</li>
 <li>Use Jira to write and manage tickets, and organize sprint planning</li>
