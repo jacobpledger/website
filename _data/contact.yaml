@@ -1,2 +1,10 @@
-- name: "Email"
-  value: mail@jacobpledger.ca
+- name: "Email Me"
+  value: jacob@jacobpledger.ca
+- name: "Github"
+  value: https://github.com/jacobpledger
+- name: Keybase
+  value: https://keybase.io/jacobpledger
+- name: Tweet @rescueshiba
+  value: https://twitter.com/rescueshiba
+- name: Steam
+  value: https://steamcommunity.com/id/Pledger/
