@@ -4,34 +4,33 @@ title: Randall Ulfbrandt
 category: player
 ---
 
-# Randall Ulfbrandt
+<h1>Randall Ulfbrandt</h1>
 
 <label>Class:<input type="text" id="class" value="Fighter"></label>
 <label>Level:<input type="number" id="level" value="6"></label>
 <label>Race:<input type="text" id="race" value="Human"></label>
 <label>Alignment:<input type="text" id="alignment" value="Lawful Neutral"></label>
 
-
 <label>Inspired:<input type="checkbox" id="inspired"></label>
 <label>Speed:<input type="number" id="speed" value=30></label>
-
 
 <label>Armor Class:<input type="number" id="ac" value=16></label>
 <label>Max HP:<input type="number" id="max-hp" value=0></label>
 <label>Current HP:<input type="number" id="current-hp" value=0></label>
-<div class="saving-throws">
+
+<section class="saving-throws">
 <h2>Saving Throws</h2>
 <ul class="saving-throws-list">
-<li><label><input type="number" id="strength-score" value=16>Strength</label></li>
-<li><label><input type="number" id="strength-score" value=1>Dexterity</label></li>
-<li><label><input type="number" id="strength-score" value=16>Constitution</label></li>
-<li><label><input type="number" id="strength-score" value=14>Intelligence</label></li>
+<li><label><input type="number" id="strength-score" max=99 value=16>Strength</label></li>
+<li><label><input type="number" id="strength-score" max=99 value=1>Dexterity</label></li>
+<li><label><input type="number" id="strength-score" max=99 value=16>Constitution</label></li>
+<li><label><input type="number" id="strength-score" max=99 value=14>Intelligence</label></li>
 <li><label><input type="number" id="strength-score" value=10>Wisdom</label></li>
 <li><label><input type="number" id="strength-score" value=14>Charisma</label></li>
 </ul>
-</div>
+</section>
 
-<div class="proficiencies">
+<section class="proficiencies">
 <h2>Proficiencies</h2>
 <div class="languages">
 <h3>Languages</h3>
@@ -39,18 +38,18 @@ category: player
 <li>Common</li>
 </ul>
 </div>
-</div>
+</section>
 
-<div class="features">
+<section class="features">
 <h2>Features and Traits</h2>
 <ul class="features-list">
 <li><a href="https://www.dndbeyond.com/feats/observant">Observant</a></li>
 </ul>
-</div>
+</section>
 
 - - - -
 
-<div class="abilities">
+<section class="abilities">
 <h2>Abilities</h2>
 <ul class="ability-list">
 <li><label><input type="number" id="strength-score" value=16>Strength<input type="number" id="strength-modifier" value=3></label></li>
@@ -60,11 +59,11 @@ category: player
 <li><label><input type="number" id="strength-score" value=10>Wisdom<input type="number" id="strength-modifier" value=0></label></li>
 <li><label><input type="number" id="strength-score" value=14>Charisma<input type="number" id="strength-modifier" value=2></label></li>
 </ul>
-</div>
+</section>
 
 - - - 
 
-<div class="skills">
+<section class="skills">
 <h2>Skills</h2>
 <label>Proficiency:<input type="number" id="proficiency" value=3></label>
 <ul class="skill-list">
@@ -92,11 +91,11 @@ category: player
 <label><li><input type="number" id="Performance-score" value=0>Performance<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
 <label><li><input type="number" id="Persuasion-score" value=0>Persuasion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
 </ul>
-</div>
+</section>
 
 - - -
 
-<div class="intentory">
+<section class="intentory">
 <h2>Inventory</h2>
 <h3>Money</h3>
 <ul class="money-list">
@@ -107,7 +106,7 @@ category: player
 </ul>
 <ul class="inventory-list">
 </ul>
-</div>
+</section>
 
 - - -
 
