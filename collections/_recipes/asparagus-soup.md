@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: recipe
+title: Asparagus Soup
+hidde: true
 ---
 # Asparagus Soup
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
-
 <h3>Soup:</h3>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">6 slices bacon, chopped, or 60 mL (1/4 cup) chopped pancetta</label></li>
@@ -24,29 +25,29 @@ layout: default
 <li><label><input type="checkbox">10 mL (2 tsp) chopped fresh dill</label></li>
 <li><label><input type="checkbox">salt and pepper to taste</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
 
-<ul class="direction-list">
-    <li><label><input type="checkbox">Prepare the croutons: in a large skillet, melt the butter over medium-low heat. Add the bread cubes and gently toss to coat in the butter.</label></li>
-    <li><label><input type="checkbox">Cook, stirring often, until the bread is browned and crispy, 5 to 7 minutes.</label></li>
-    <li><label><input type="checkbox">Remove from the heat, then sprinkle coutons with dill and salt and pepper.</label></li>
-</ul>
+<ol class="direction-list">
+<li><label><input type="checkbox">Prepare the croutons: in a large skillet, melt the butter over medium-low heat. Add the bread cubes and gently toss to coat in the butter.</label></li>
+<li><label><input type="checkbox">Cook, stirring often, until the bread is browned and crispy, 5 to 7 minutes.</label></li>
+<li><label><input type="checkbox">Remove from the heat, then sprinkle coutons with dill and salt and pepper.</label></li>
+</ol>
 
 <h3>Soup:</h3>
-    <ul class="direction-list">
-        <li><label><input type="checkbox">In a large pot over medium-low heat, fry the bacon, stirring often, until crispy, about 5 minutes</label></li>
-        <li><label><input type="checkbox">Use a slotted spoon to remove bacon from the pot but not the fat. Put the bacon in a bowl and set aside.</label></li>
-        <li><label><input type="checkbox">Add the butter to the bacon fat and melt over low heat.</label></li>
-        <li><label><input type="checkbox">Add the onion and cook, stirring often, until the onion has softened, about 8 minutes.</label></li>
-        <li><label><input type="checkbox">Meanwhile, coarsely chop the asparagus.</label></li>
-        <li><label><input type="checkbox">Add the asparagus to the pot, along with the chicken stock, salt, and pepper.</label></li>
-        <li><label><input type="checkbox">Bring to a boil over medium-high heat.</label></li>
-        <li><label><input type="checkbox">Reduce the heat to low and simmer, covered, until the asparagus is very tender, about 20 minutes.</label></li>
-        <li><label><input type="checkbox">Remove the pot from the heat and add the crème fraîche.</label></li>
-        <li><label><input type="checkbox">Using an immersion blender in the pot, blend the soup until smooth.</label></li>
-        <li><label><input type="checkbox">Ladle the soup into warm bowls and sprinkle with the reserved bacon and dill croutons. Makes about 6 servings.</label></li>
-    </ul>
-</div>
+<ol class="direction-list">
+<li><label><input type="checkbox">In a large pot over medium-low heat, fry the bacon, stirring often, until crispy, about 5 minutes</label></li>
+<li><label><input type="checkbox">Use a slotted spoon to remove bacon from the pot but not the fat. Put the bacon in a bowl and set aside.</label></li>
+<li><label><input type="checkbox">Add the butter to the bacon fat and melt over low heat.</label></li>
+<li><label><input type="checkbox">Add the onion and cook, stirring often, until the onion has softened, about 8 minutes.</label></li>
+<li><label><input type="checkbox">Meanwhile, coarsely chop the asparagus.</label></li>
+<li><label><input type="checkbox">Add the asparagus to the pot, along with the chicken stock, salt, and pepper.</label></li>
+<li><label><input type="checkbox">Bring to a boil over medium-high heat.</label></li>
+<li><label><input type="checkbox">Reduce the heat to low and simmer, covered, until the asparagus is very tender, about 20 minutes.</label></li>
+<li><label><input type="checkbox">Remove the pot from the heat and add the crème fraîche.</label></li>
+<li><label><input type="checkbox">Using an immersion blender in the pot, blend the soup until smooth.</label></li>
+<li><label><input type="checkbox">Ladle the soup into warm bowls and sprinkle with the reserved bacon and dill croutons. Makes about 6 servings.</label></li>
+</ol>
+</section>
