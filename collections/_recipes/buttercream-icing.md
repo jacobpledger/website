@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Buttercream Icing
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">1/3 Cup Butter</label></li>
@@ -12,16 +12,16 @@ layout: default
 <li><label><input type="checkbox">2 Cups Icing Sugar</label></li>
 <li><label><input type="checkbox">1 or 2 Tablespoons Milk (or a splash of coffee)</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
 <ul class="direction-list">
 <li><label><input type="checkbox">Cream butter.</label></li>
 <li><label><input type="checkbox">Slowly beat in icing sugar.</label></li>
 <li><label><input type="checkbox">Add liquid until creamy enough to spread.</label></li>
 </ul>
-</div>
+</section>
 
 ## Notes
 

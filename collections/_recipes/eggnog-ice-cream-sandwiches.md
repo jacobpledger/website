@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Eggnog Ice Cream Sandwiches
 
-<div class="ingredients">
+<section class="ingredients">
     <h2></h2><ul class="ingredient-list">
         <li><label><input type="checkbox">1 cup light brown sugar</label></li>
         <li><label><input type="checkbox">1/4 cup granulated white sugar</label></li>
@@ -22,9 +22,9 @@ layout: default
         <li><label><input type="checkbox">2 tsp vanilla extract</label></li>
         <li><label><input type="checkbox">Vanilla Ice Cream</label></li>
     </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
     <ul class="direction-list">
         <li><label><input type="checkbox">Preheat the oven to 375F.</label></li>
@@ -40,4 +40,4 @@ layout: default
         <li><label><input type="checkbox">Let cookies cool completely.</label></li>
         <li><label><input type="checkbox">Scoop ice cream and place between two cookies, making a sandwich.</label></li>
     </ul>
-</div>
+</section>

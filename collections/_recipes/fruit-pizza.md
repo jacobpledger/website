@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Fruit Pizza

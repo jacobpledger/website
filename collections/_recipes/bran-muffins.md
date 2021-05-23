@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Bran Muffins
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">2 beaten eggs</label></li>
@@ -17,9 +17,9 @@ layout: default
 <li><label><input type="checkbox">2 tsp baking soda</label></li>
 <li><label><input type="checkbox">1 tsp salt</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
 <ul class="direction-list">
 <li><label><input type="checkbox">In one bowl, mix together the eggs, oil, vanilla, and sour cream</label></li>
@@ -29,7 +29,7 @@ layout: default
 <li><label><input type="checkbox">Fill muffin tins with the mixture</label></li>
 <li><label><input type="checkbox">Bake at 375℉ for about 20 minutes</label></li>
 </ul>
-</div>
+</section>
 
 ## Notes
 

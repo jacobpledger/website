@@ -1,16 +1,22 @@
 ---
-layout: default
+layout: recipe
+title: Pea Soup
 ---
 
-# Pea Soup
+<h1>Pea Soup</h1>
 
-### Ingredients:
+<section class="ingredients">
+<h2>Ingredients</h2>
+<ul class="ingredient-list">
+</ul>
+</section>
 
-### Directions:
-
+<section class="directions">
+<h2>Directions</h2>
+<ol class="direction-list">
 boil the heck out of bone
 onions
 peas (half bag, maybe less - makes a big pot)
 peppercorns
-
-### Notes:
+</ol>
+</section>

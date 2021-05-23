@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recipe
 tags:
   - cookies
   - dessert
@@ -7,7 +7,7 @@ tags:
 
 # Oatmeal Cookies
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients:</h2>
 <ul class="ingredient-list">
 <li><label><input type="checkbox">3/4 Cup Butter</label></li>
@@ -28,8 +28,8 @@ tags:
 <ul class="ingredient-list">
 <li><label><input type="checkbox">2 Cups Oats</label></li>
 </ul>
-</div>
-<div class="directions">
+</section>
+<section class="directions">
 <h2>Directions:</h2>
 <ul class="direction-list">
 <li><label><input type="checkbox">Preheat oven to 350℉</label></li>
@@ -43,8 +43,8 @@ tags:
 <li><label><input type="checkbox">Bake at 350℉ for 12 minutes.</label></li>
 <li><label><input type="checkbox">Remove and allow to cool slightly.</label></li>
 <li><label><input type="checkbox">Transfer to cooling rack to completely cool.</label></li>
-</div>
+</section>
 <div class="notes">
 <h2>Notes:</h2>
 Optionally, mix in apple slices after the oats.
-</div>
+</section>

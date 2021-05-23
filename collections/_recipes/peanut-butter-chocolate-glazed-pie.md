@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Peanut Butter and Chocolate Glazed Pie
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
     <ul class="ingredient-list">
 <li><label><input type="checkbox">1.25 Cups Chocolate Baking Crumbs</label></li>
@@ -16,9 +16,9 @@ layout: default
 <li><label><input type="checkbox">2 Cups Cool Whip</label></li>
 <li><label><input type="checkbox">3 oz bakers chocolate</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
     <ul class="direction-list">
 <li><label><input type="checkbox">Mix crumbs and butter, press onto bottom and side of pie plate</label></li>
@@ -31,6 +31,6 @@ layout: default
 <li><label><input type="checkbox">Spread over pie</label></li>
 <li><label><input type="checkbox">Microwave remaining peanut butter around 30 seconds and drizzle over pie. Refrigerate 4 hours</label></li>
 </ul>
-</div>
+</section>
 
 ### Notes:

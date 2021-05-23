@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: recipe
 ---
 
 # Zesty BBQ Sauce
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients:</h2>
     <ul class="ingredient-list">
         <li><label><input type="checkbox">2 tbsp vegetable oil</label></li>
@@ -16,9 +16,9 @@ layout: default
         <li><label><input type="checkbox">1 tsp chili powder</label></li>
         <li><label><input type="checkbox">pinch cayenne pepper</label></li>
     </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
     <ul class="direction-list">
         <li><label><input type="checkbox">Finely chop onion.</label></li>
@@ -26,7 +26,7 @@ layout: default
         <li><label><input type="checkbox">Stir in brown sugar and cook over low heat, stirring until dissoled.</label></li>
         <li><label><input type="checkbox">Remove from heat and add all other ingredients.</label></li>
     </ul>
-</div>
+</section>
 
 ## Notes
 

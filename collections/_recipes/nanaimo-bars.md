@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: recipe
 title: Nanaimo Bars
 ---
 
-# Nanaimo Bars
+<h1>Nanaimo Bars</h1>
 
-<div class="ingredients">
+<section class="ingredients">
 <h2>Ingredients</h2>
 <h3>Base:</h3>
 <ul class="ingredient-list">
@@ -18,7 +18,6 @@ title: Nanaimo Bars
 <li><label><input type="checkbox">1 tsp / 5mL vanilla</label></li>
 <li><label><input type="checkbox">1 egg</label></li>
 </ul>
-
 
 <h3>Filling:</h3>
 <ul class="ingredient-list">
@@ -33,18 +32,21 @@ title: Nanaimo Bars
 <li><label><input type="checkbox">4 sq. Baker’s semi-sweet chocolate</label></li>
 <li><label><input type="checkbox">1 tbsp / 15mL butter</label></li>
 </ul>
-</div>
+</section>
 
-<div class="directions">
+<section class="directions">
 <h2>Directions</h2>
-    <ul class="direction-list">
+<ul class="direction-list">
 <li><label><input type="checkbox">Base: Combine base ingredients, mix well. Press into 9” (2.5L) square cake pan. Chill.</label></li>
 <li><label><input type="checkbox">Filling: Combine butter, milk, and custard powder. Blend in icing sugar until smooth. Spread on base; chill at least 15 minutes</label></li>
 <li><label><input type="checkbox">Glaze: Partially melt with butter over hot water. Remove from heat and stir completely melted. Spread over custard layer. Chill; store in refrigerator.</label></li>
 </ul>
-</div>
+</section>
 
-### Notes:
-
-* Makes 24 bars.
-* Bars may be made up to 1 month in advance and stored, covered in refrigerator.
+<section class="notes">
+<h2>Notes</h2>
+<ul class="notes-list">
+<li>Makes 24 bars.</li>
+<li>Bars may be made up to 1 month in advance and stored, covered in refrigerator.</li>
+</ul>
+</section>
