@@ -1,5 +1,6 @@
 ---
 layout: recipe
+title: Haystacks
 ---
 
 # Haystacks
