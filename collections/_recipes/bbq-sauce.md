@@ -1,8 +1,8 @@
 ---
 layout: recipe
+title: Zesty BBQ Sauce
+published: false
 ---
-
-# Zesty BBQ Sauce
 
 <section class="ingredients">
 <h2>Ingredients:</h2>

@@ -3,8 +3,6 @@ layout: recipe
 title: Hummus
 ---
 
-<h1>Hummus</h1>
-
 <section class="ingredients">
     <h2>Ingredients</h2>
     <ul class="ingredient-list">

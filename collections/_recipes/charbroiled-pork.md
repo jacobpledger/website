@@ -3,8 +3,6 @@ layout: recipe
 title: Charbroiled Pork
 ---
 
-<h1>Charbroiled Pork</h1>
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">
@@ -48,11 +46,6 @@ Sauce:
 <li><label><input type="checkbox">1 grated carrot</label></li>
 
 simmer and pour over carrot.
-
-
-
-
-
 
 <section class="notes">
 <h2>Notes</h2>
