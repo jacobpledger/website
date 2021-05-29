@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Chilli
 ---
-
-# Chilli
 
 <section class="ingredients">
 <h2>Ingredients</h2>

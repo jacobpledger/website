@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Bran Muffins
 ---
-
-# Bran Muffins
 
 <section class="ingredients">
 <h2>Ingredients</h2>
@@ -31,9 +30,9 @@ layout: recipe
 </ul>
 </section>
 
-## Notes
-
-* I have the big muffin tins, so I normally double everything.
+<section class="notes">
+    <h2>Notes</h2>
+    <ol class="notes-list">
 * I don’t use that much sugar – usually ½ or less if I use juices.
 * Only use sour cream if I have some left over, but I never buy any just special for this recipe.
 * I don’t use that much oil – maybe half or less.
@@ -41,3 +40,7 @@ layout: recipe
 
 You can use shredded carrots, banana, zucchini (shredded), yogurt, granola  – pretty much anything.
 The oranges – I wash them off, cut them in sections, putting one in at a time in the blender.  You will have to add  liquid (here’s where I like to use orange juice). Depending on your blender, you may have to empty it every so often in a separate bowl.  So, orange pieces (about 2 or 3 with a bit of liquid) blend, dump in bowl, and repeat this process until the orange is used up.  Too runny?  Add more bran/granola or flour.  Also if I have it I like to use orange flavouring.
+    </ol>
+</section>
+
+

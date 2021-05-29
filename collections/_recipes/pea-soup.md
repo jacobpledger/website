@@ -3,8 +3,6 @@ layout: recipe
 title: Pea Soup
 ---
 
-<h1>Pea Soup</h1>
-
 <section class="ingredients">
 <h2>Ingredients</h2>
 <ul class="ingredient-list">

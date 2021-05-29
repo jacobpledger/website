@@ -1,8 +1,7 @@
 ---
 layout: recipe
+title: Chocolate Pancakes
 ---
-
-# Chocolate Pancakes
 
 ### Ingredients:
 
