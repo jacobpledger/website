@@ -1,10 +1,10 @@
 - name: "Email Me"
   value: jacob@jacobpledger.ca
-- name: "Github"
+- name: Github
   value: https://github.com/jacobpledger
 - name: Keybase
   value: https://keybase.io/jacobpledger
-- name: Tweet @rescueshiba
-  value: https://twitter.com/rescueshiba
 - name: Steam
   value: https://steamcommunity.com/id/Pledger/
+- name: Twitter
+  value: https://twitter.com/rescueshiba
