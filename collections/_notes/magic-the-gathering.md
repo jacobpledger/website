@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Magic: The Gathering
+title: "Magic: The Gathering"
 ---
 
 # Magic: The Gathering
