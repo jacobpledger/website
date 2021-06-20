@@ -1,4 +1,6 @@
 ---
+layout: note
+title: Magic: The Gathering
 ---
 
 # Magic: The Gathering
