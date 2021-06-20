@@ -17,7 +17,7 @@
 
 ### Colour Choice and Philosophy
 
-* [White] (https://magic.wizards.com/en/articles/archive/making-magic/great-white-way-revisited-2015-07-13)
+* [White](https://magic.wizards.com/en/articles/archive/making-magic/great-white-way-revisited-2015-07-13)
 * [Blue](https://magic.wizards.com/en/articles/archive/making-magic/true-blue-revisited-2015-07-20)
 * [Black](https://magic.wizards.com/en/articles/archive/making-magic/black-revisited-2015-07-27)
 * [Red](https://magic.wizards.com/en/articles/archive/making-magic/seeing-red-revisited-2015-08-03)
