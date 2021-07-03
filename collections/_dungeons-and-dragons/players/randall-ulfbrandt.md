@@ -7,7 +7,7 @@ category: player
 <h1>Randall Ulfbrandt</h1>
 
 <label>Class:<input type="text" id="class" value="Fighter"></label>
-<label>Level:<input type="number" id="level" value="6"></label>
+<label>Level:<input type="number" size="2" id="level" value="6"></label>
 <label>Race:<input type="text" id="race" value="Human"></label>
 <label>Alignment:<input type="text" id="alignment" value="Lawful Neutral"></label>
 
@@ -67,29 +67,29 @@ category: player
 <h2>Skills</h2>
 <label>Proficiency:<input type="number" id="proficiency" value=3></label>
 <ul class="skill-list">
-<label><li><input type="number" id="Strength-score" value=0>Strength<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Athletics-score" value=0>Athletics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Dexterity-score" value=0>Dexterity<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Acrobatics-score" value=0>Acrobatics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Sleight-score" value=0>Sleight of Hand<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Stealth-score" value=0>Stealth<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Intelligence-score" value=0>Intelligence<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Arcana-score" value=0>Arcana<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="History-score" value=0>History<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Investigation-score" value=0>Investigation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Nature-score" value=0>Nature<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Religion-score" value=0>Religion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Wisdom-score" value=0>Wisdom<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Animal-score" value=0>Animal Handling<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Insight-score" value=0>Insight<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Medicine-score" value=0>Medicine<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Perception-score" value=0>Perception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Survival-score" value=0>Survival<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Charisma-score" value=0>Charisma<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Deception-score" value=0>Deception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Intimidation-score" value=0>Intimidation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Performance-score" value=0>Performance<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" id="Persuasion-score" value=0>Persuasion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Strength-score" value=0>Strength<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Athletics-score" value=0>Athletics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Dexterity-score" value=0>Dexterity<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Acrobatics-score" value=0>Acrobatics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Sleight-score" value=0>Sleight of Hand<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Stealth-score" value=0>Stealth<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Intelligence-score" value=0>Intelligence<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Arcana-score" value=0>Arcana<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="History-score" value=0>History<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Investigation-score" value=0>Investigation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Nature-score" value=0>Nature<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Religion-score" value=0>Religion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Wisdom-score" value=0>Wisdom<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Animal-score" value=0>Animal Handling<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Insight-score" value=0>Insight<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Medicine-score" value=0>Medicine<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Perception-score" value=0>Perception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Survival-score" value=0>Survival<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Charisma-score" value=0>Charisma<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Deception-score" value=0>Deception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Intimidation-score" value=0>Intimidation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Performance-score" value=0>Performance<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
+<label><li><input type="number" size="2" id="Persuasion-score" value=0>Persuasion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
 </ul>
 </section>
 
