@@ -52,12 +52,12 @@ category: player
 <section class="abilities">
 <h2>Abilities</h2>
 <ul class="ability-list">
-<li><label><input type="number" id="strength-score" value=16>Strength<input type="number" id="strength-modifier" value=3></label></li>
-<li><label><input type="number" id="strength-score" value=11>Dexterity<input type="number" id="strength-modifier" value=0></label></li>
-<li><label><input type="number" id="strength-score" value=16>Constitution<input type="number" id="strength-modifier" value=3></label></li>
-<li><label><input type="number" id="strength-score" value=14>Intelligence<input type="number" id="strength-modifier" value=2></label></li>
-<li><label><input type="number" id="strength-score" value=10>Wisdom<input type="number" id="strength-modifier" value=0></label></li>
-<li><label><input type="number" id="strength-score" value=14>Charisma<input type="number" id="strength-modifier" value=2></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=16>Strength<input type="number" size="2" id="strength-modifier" value=3></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=11>Dexterity<input type="number" size="2" id="strength-modifier" value=0></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=16>Constitution<input type="number" size="2" id="strength-modifier" value=3></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=14>Intelligence<input type="number" size="2" id="strength-modifier" value=2></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=10>Wisdom<input type="number" size="2" id="strength-modifier" value=0></label></li>
+<li><label><input type="number" size="2" id="strength-score" value=14>Charisma<input type="number" size="2" id="strength-modifier" value=2></label></li>
 </ul>
 </section>
 
