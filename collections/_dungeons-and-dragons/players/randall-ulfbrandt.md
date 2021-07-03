@@ -22,7 +22,7 @@ category: player
 <h2>Saving Throws</h2>
 <ul class="saving-throws-list">
 <li><label><input type="number" size="2" id="strength-score" max=99 value=16>Strength</label></li>
-<li><label><input type="number" size="2" id="strength-score" max=99 value=1>Dexterity</label></li>
+<li><label><input type="number" size="2" id="strength-score" max=99 value=11>Dexterity</label></li>
 <li><label><input type="number" size="2" id="strength-score" max=99 value=16>Constitution</label></li>
 <li><label><input type="number" size="2" id="strength-score" max=99 value=14>Intelligence</label></li>
 <li><label><input type="number" size="2" id="strength-score" value=10>Wisdom</label></li>
@@ -50,47 +50,43 @@ category: player
 - - - -
 
 <section class="abilities">
-<h2>Abilities</h2>
-<ul class="ability-list">
-<li><label><input type="number" size="2" id="strength-score" value=16>Strength<input type="number" size="2" id="strength-modifier" value=3></label></li>
-<li><label><input type="number" size="2" id="strength-score" value=11>Dexterity<input type="number" size="2" id="strength-modifier" value=0></label></li>
-<li><label><input type="number" size="2" id="strength-score" value=16>Constitution<input type="number" size="2" id="strength-modifier" value=3></label></li>
-<li><label><input type="number" size="2" id="strength-score" value=14>Intelligence<input type="number" size="2" id="strength-modifier" value=2></label></li>
-<li><label><input type="number" size="2" id="strength-score" value=10>Wisdom<input type="number" size="2" id="strength-modifier" value=0></label></li>
-<li><label><input type="number" size="2" id="strength-score" value=14>Charisma<input type="number" size="2" id="strength-modifier" value=2></label></li>
-</ul>
+	<h2>Abilities</h2>
+	<ul class="ability-list">
+		<li><label><input type="number" size="2" id="strength-score" value=16>Strength<input type="number" size="2" id="strength-modifier" value=3></label></li>
+		<li><label><input type="number" size="2" id="strength-score" value=11>Dexterity<input type="number" size="2" id="strength-modifier" value=0></label></li>
+		<li><label><input type="number" size="2" id="strength-score" value=16>Constitution<input type="number" size="2" id="strength-modifier" value=3></label></li>
+		<li><label><input type="number" size="2" id="strength-score" value=14>Intelligence<input type="number" size="2" id="strength-modifier" value=2></label></li>
+		<li><label><input type="number" size="2" id="strength-score" value=10>Wisdom<input type="number" size="2" id="strength-modifier" value=0></label></li>
+		<li><label><input type="number" size="2" id="strength-score" value=14>Charisma<input type="number" size="2" id="strength-modifier" value=2></label></li>
+	</ul>
 </section>
 
 - - - 
 
 <section class="skills">
-<h2>Skills</h2>
-<label>Proficiency:<input type="number" size="2" id="proficiency" value=3></label>
-<ul class="skill-list">
-<label><li><input type="number" size="2" id="Strength-score" value=0>Strength<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Athletics-score" value=0>Athletics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Dexterity-score" value=0>Dexterity<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Acrobatics-score" value=0>Acrobatics<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Sleight-score" value=0>Sleight of Hand<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Stealth-score" value=0>Stealth<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Intelligence-score" value=0>Intelligence<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Arcana-score" value=0>Arcana<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="History-score" value=0>History<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Investigation-score" value=0>Investigation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Nature-score" value=0>Nature<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Religion-score" value=0>Religion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Wisdom-score" value=0>Wisdom<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Animal-score" value=0>Animal Handling<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Insight-score" value=0>Insight<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Medicine-score" value=0>Medicine<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Perception-score" value=0>Perception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Survival-score" value=0>Survival<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Charisma-score" value=0>Charisma<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Deception-score" value=0>Deception<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Intimidation-score" value=0>Intimidation<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Performance-score" value=0>Performance<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-<label><li><input type="number" size="2" id="Persuasion-score" value=0>Persuasion<label>Proficient:<input type="checkbox" id="inspired"></label></li></label>
-</ul>
+	<h2>Skills</h2>
+	<label>Proficiency:<input type="number" size="2" id="proficiency" value=3></label>
+	<table class="skill-table">
+		<tr><th>Skill</th><th>Proficient?</th></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="acrobatics-score"    value=0>Acrobatics     </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="animal-score"        value=0>Animal Handling</label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="arcana-score"        value=5>Arcana         </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="athletics-score"     value=3>Athletics      </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="deception-score"     value=2>Deception      </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="history-score"       value=2>History        </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="insight-score"       value=0>Insight        </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="intimidation-score"  value=5>Intimidation   </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="investigation-score" value=5>Investigation  </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="medicine-score"      value=0>Medicine       </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="nature-score"        value=2>Nature         </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="perception-score"    value=3>Perception     </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="performance-score"   value=2>Performance    </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="persuasion-score"    value=2>Persuasion     </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="religion-score"      value=2>Religion       </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="sleight-score"       value=0>Sleight of Hand</label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="stealth-score"       value=0>Stealth        </label></td><td><input type="checkbox" id="proficient"></td></tr>
+		<tr><td><label><input type="number" class="skill-score" size="2" id="survival-score"      value=0>Survival       </label></td><td><input type="checkbox" id="proficient"></td></tr>
+	</table>
 </section>
 
 - - -
@@ -132,32 +128,3 @@ regardless of whether or not you are aware of their crime.
 Attack Modifier (Melee, Thrown) = Str + Proficiency (if proficient)
 Attack Modifier (Ranged, Finesse) = Dex + Proficiency (if proficient)
 - - - -
-## Inventory
-* Longsword
-* Shield
-* Silvered Battleax
-* Longbow
-* Black Pocket Notebook
-* 19 Arrows
-
-    Dungeoneer's Pack:
-     *
-
- Money:
-* 0 CP
-* 0 SP
-* 15 GP
-* 0 PP
-
-
-Class Equipment:
-	⁃	Longsword and Shield
-	⁃	Silvered Battle Axe (in exchange for 2 hand axes and personal weapon)
-	⁃	Custom Armour (Half-plate with stealth disadvantage removed)
-	⁃	Longbow and 20 arrows
-	⁃	Dungeoneer’s pack
-
-Background Equipment:
-	⁃	a little black notebook
-	⁃	belt pouch containing 15 gp.
-
