@@ -12,21 +12,21 @@ category: player
 <label>Alignment:<input type="text" id="alignment" value="Lawful Neutral"></label>
 
 <label>Inspired:<input type="checkbox" id="inspired"></label>
-<label>Speed:<input type="number" id="speed" value=30></label>
+<label>Speed:<input type="number" size="2" id="speed" value=30></label>
 
-<label>Armor Class:<input type="number" id="ac" value=16></label>
-<label>Max HP:<input type="number" id="max-hp" value=0></label>
-<label>Current HP:<input type="number" id="current-hp" value=0></label>
+<label>Armor Class:<input type="number" size="2" id="ac" value=16></label>
+<label>Max HP:<input type="number" size="3" id="max-hp" value=0></label>
+<label>Current HP:<input type="number" size="3" id="current-hp" value=0></label>
 
 <section class="saving-throws">
 <h2>Saving Throws</h2>
 <ul class="saving-throws-list">
-<li><label><input type="number" id="strength-score" max=99 value=16>Strength</label></li>
-<li><label><input type="number" id="strength-score" max=99 value=1>Dexterity</label></li>
-<li><label><input type="number" id="strength-score" max=99 value=16>Constitution</label></li>
-<li><label><input type="number" id="strength-score" max=99 value=14>Intelligence</label></li>
-<li><label><input type="number" id="strength-score" value=10>Wisdom</label></li>
-<li><label><input type="number" id="strength-score" value=14>Charisma</label></li>
+<li><label><input type="number" size="2" id="strength-score" max=99 value=16>Strength</label></li>
+<li><label><input type="number" size="2" id="strength-score" max=99 value=1>Dexterity</label></li>
+<li><label><input type="number" size="2" id="strength-score" max=99 value=16>Constitution</label></li>
+<li><label><input type="number" size="2" id="strength-score" max=99 value=14>Intelligence</label></li>
+<li><label><input type="number" size="2" id="strength-score" value=10>Wisdom</label></li>
+<li><label><input type="number" size="2" id="strength-score" value=14>Charisma</label></li>
 </ul>
 </section>
 
