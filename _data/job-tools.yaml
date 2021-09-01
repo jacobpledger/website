@@ -1,7 +1,7 @@
+- name: Amazon Web Services
+  link: https://aws.amazon.com
 - name: Apache NiFi
   link: https://nifi.apache.org
-# - name: Brave
-#   link: https://brave.com/
 - name: Celery
   link: https://docs.celeryproject.org/
 - name: Django
@@ -12,16 +12,18 @@
   link: https://www.docker.com
 - name: Elasticsearch
   link: https://www.elastic.co
-# - name: Firefox
-#   link: https://www.mozilla.org/firefox/
 - name: Git
   link: https://git-scm.com/
 - name: GitHub
   link: https://github.com
-# - name: iOS
-#   link: https://www.apple.com/ios/
+- name: Google Cloud
+  link: https://cloud.google.com/
 - name: Jira
   link: https://www.atlassian.com/software/jira
+- name: Kubernetes
+  link: https://kubernetes.io/
+- name: Microsoft Azure
+  link: https://azure.microsoft.com/
 - name: Python
   link: https://www.python.org
 - name: RabbitMQ
