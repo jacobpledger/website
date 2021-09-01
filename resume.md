@@ -102,7 +102,7 @@ Co-operative Education Designation<br>
 <details>
 <summary>Scholarships & Awards</summary>
 <ul class="award-list">
-<li>Alexander Rutherford Scholarship, June 2008</li>
+<li><a href="https://studentaid.alberta.ca/scholarships-and-awards/alexander-rutherford-scholarship/">Alexander Rutherford Scholarship, June 2008</a></li>
 </ul>
 </details>
 </li>
