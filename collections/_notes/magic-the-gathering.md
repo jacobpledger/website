@@ -30,6 +30,12 @@ title: "Magic: The Gathering"
 * [Card Shop Tolaria](https://www.cardshoptolaria.com/)
 * [Face to Face Games](https://www.facetofacegames.com)
 
+### Boosters
+
+https://blog.cardkingdom.com/mtg-booster-pack-guide/
+https://mtg.fandom.com/wiki/Booster_pack
+
+
 ## Playing
 
 * [Shuffling Cards](/card-shuffling.html)
