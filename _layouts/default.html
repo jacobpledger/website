@@ -1,12 +1,21 @@
 <!doctype html>
-<html lang="en-CA">
+	<html lang="en-CA">
 	<head>
 		{% include head.html %}
+		
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#372c2c">
+		<meta name="msapplication-TileColor" content="#ff9950">
+		<meta name="theme-color" content="#ff9950">
+		
 	</head>
-	  <body>
-		  <section class="navigation">
+	<body>
+		<section class="navigation">
 			{% include navigation.html %}
-		  </section>
+		</section>
 		<hr class="separator">
 		<div class="body-content">
 			{{ content }}
@@ -16,4 +25,4 @@
 	<footer>
 		{% include footer.html %}
 	</footer>
-</html>
+	</html>
