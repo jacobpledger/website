@@ -1,0 +1,17 @@
+---
+layout: default
+title: soundboard
+---
+
+<ul class="soundboard-list">
+{% for file in site.static_files %}
+    {% if file.path contains 'audio/soundboard' %}
+    <li>
+        <label>{{ file.basename }}</label>
+        <audio controls>
+            <source src="{{ site.baseurl }}{{ file.path }}" type="audio/mpeg">
+        </audio>
+    </li>
+    {% endif %}
+{% endfor %}
+</ul>
