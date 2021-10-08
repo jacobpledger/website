@@ -35,76 +35,10 @@ html {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
   }
-  .job-position-list {
-    ul {
-      list-style: none;
-    }
-  }
-  .job-position-list {
-      list-style: none;
-  }
-  .job-tasks {
-    list-style: disc;
-  }
   .post-list {
     ul {
       list-style: none;
       padding: 0em;
-    }
-  }
-  .resume-toc {
-    list-style: none;
-    li {
-      display: inline;
-      padding-inline-start: 0.3em;
-      padding-inline-end: 0.3em;
-    }
-  }
-  .courses-list {
-    list-style: none;
-    column-count: 3;
-    column-width: auto;
-    li {
-      padding-top: 0.3em;
-      padding-bottom: 0.3em;
-    }
-  }
-  .education-list {
-    list-style: none;
-    li {
-      padding-top: 0.3em;
-      padding-bottom: 0.3em;
-    }
-  }
-  .tool-list {
-    list-style: none;
-    column-count: 3;
-    column-width: auto;
-  }
-  .award-list {
-    list-style: none;
-  }
-  .recipe-list {
-    ul {
-      list-style: none;
-      column-count: 5;
-      column-width: 150px;
-    }
-    li {
-      padding: $list-padding;
-    }
-  }
-  .ingredient-list {
-    list-style: none;
-    list-style-type: none;
-    li {
-      padding: $list-padding;
-    }
-  }
-  .direction-list {
-    list-style: none;
-    li {
-      padding: $list-padding
     }
   }
   .social {
@@ -116,11 +50,6 @@ html {
     list-style: none;
   }
   .affiliates {
-    ul {
-      list-style: none;
-    }
-  }
-  .saving-throws-list {
     ul {
       list-style: none;
     }
