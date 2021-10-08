@@ -1,0 +1,23 @@
+.ingredient-list {
+  list-style: none;
+  list-style-type: none;
+  li {
+    padding: $list-padding;
+  }
+}
+.direction-list {
+  list-style: none;
+  li {
+    padding: $list-padding
+  }
+}
+.recipe-list {
+  ul {
+    list-style: none;
+    column-count: 5;
+    column-width: 150px;
+  }
+  li {
+    padding: $list-padding;
+  }
+}
