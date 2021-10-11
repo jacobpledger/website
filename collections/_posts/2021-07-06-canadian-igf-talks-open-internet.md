@@ -2,6 +2,7 @@
 title: "Canadian IGF Talks: Does the Government of Canada Still Support the Open Internet?"
 layout: post
 date: 2021-07-06
+tags: youtube video
 ---
 
 <div class="youtube-container">

@@ -1,6 +1,9 @@
 ---
-title: The "Last Lecture" by Randy Pausch
+title: 'The "Last Lecture" by Randy Pausch'
 layout: post
+external_link: "https://www.youtube.com/watch?v=j7zzQpvoYcQ"
+source: YouTube
+tags: youtube video
 ---
 
 <div class="youtube-container">
