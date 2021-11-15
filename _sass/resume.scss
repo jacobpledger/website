@@ -1,0 +1,38 @@
+.award-list {
+  list-style: none;
+}
+.courses-list {
+  list-style: none;
+  column-count: 3;
+  column-width: auto;
+  li {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+  }
+}
+.education-list {
+  list-style: none;
+  li {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+  }
+}
+.job-position-list {
+  list-style: none;
+}
+.job-tasks {
+  list-style: disc;
+}
+.tool-list {
+  list-style: none;
+  column-count: 3;
+  column-width: auto;
+}
+.resume-toc {
+  list-style: none;
+  li {
+    display: inline;
+    padding-inline-start: 0.3em;
+    padding-inline-end: 0.3em;
+  }
+}
