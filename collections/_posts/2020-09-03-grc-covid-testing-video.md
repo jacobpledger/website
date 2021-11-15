@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Thought Emporium - How Does COVID-19 Testing Actually Work?
+source: YouTube
+type: Video
 ---
 
 A long technical rundown video of how Covid testing works.

@@ -1,7 +1,9 @@
 ---
 external_link: https://www.litterboxcomics.com/thats-bait/
-title: Litterbox Comics - That's Bait
+title: That's Bait
 layout: post
+type: Comic
+source: Litterbox
 ---
 
 Close to home.

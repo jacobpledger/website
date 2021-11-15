@@ -1,7 +1,9 @@
 ---
 layout: external-post
 external_link: https://darknetdiaries.com/episode/66
-title: Darknet Diaries - freakyclown
+title: freakyclown
+source: "Darknet Diaries"
+type: Podcast
 ---
 
 Some fun physical penetration testing stories.

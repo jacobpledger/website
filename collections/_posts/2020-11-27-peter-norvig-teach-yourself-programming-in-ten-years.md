@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Peter Norvig - Teach Yourself Programming in Ten Years
+type: Article
+tags: programming
 ---
 
-[This is an excellent article](https://norvig.com/21-days.html) with a lot of good points, although I fear it might scare away those who are not *soulbound* to being a "Professional Programmer". For some, it is a job, and not an identity. Maybe it will become an identity one day, but it is ok if it does not.
+[This is an excellent article](https://norvig.com/21-days.html) with a lot of good points, although I fear it might scare away those who are not *soulbound* to being a "Professional Programmer". For some, it is a job, and not an identity. Maybe it will become an identity one day, but it's ok if it does not.
 
 To those people who may be daunted, the key takeaways are:
 * Having programming be fun will keep you motivated. Find something that makes it fun.

@@ -5,6 +5,8 @@ title: emoji
 
 {% for image in site.static_files %}
     {% if image.path contains 'images/emoji' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <div class="emoji-container" style="height=128px width=128px">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" title={{ image.name }} />
+        </div>
     {% endif %}
 {% endfor %}

@@ -2,11 +2,11 @@
 layout: default
 title: Blog
 ---
-<section class="post-list">
-<ul>
+<section class="post-list-section">
+<ul class="post-list">
     {% for post in paginator.posts %}
     <li>
-        <h2><a href="{{ post.external_link | default: post.url }}">[{{post.source}}] {{ post.title }}</a></h2>
+        <h2>/{{post.type}}/{{post.source}}/<a href="{{ post.external_link | default: post.url }}">{{ post.title }}</a></h2>
         {% unless post.tags contains 'youtube' %}<p>{{ post.content }}</p>{% endunless %}
         [<a href="{{ post.url }}">link to this post</a>]
     </li>
