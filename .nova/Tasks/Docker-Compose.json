@@ -1,0 +1,14 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "docker-compose build"
+    },
+    "run" : {
+      "enabled" : true,
+      "persistent": true,
+      "script" : "docker-compose up -d"
+    }
+  },
+  "identifier" : "F80C6169-9A62-4469-8389-8DEC69F4D351"
+}
