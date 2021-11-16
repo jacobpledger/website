@@ -1,7 +1,6 @@
 ---
 layout: person
 title: Helm
-campaign: david
 category: gods
 ---
 

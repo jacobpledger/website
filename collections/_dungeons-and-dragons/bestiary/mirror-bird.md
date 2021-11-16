@@ -1,7 +1,6 @@
 ---
 layout: dnd-bestiary
 title: Mirror Bird
-campaign: david
 category: bestiary
 ---
 
