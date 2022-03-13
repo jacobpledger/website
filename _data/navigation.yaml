@@ -2,8 +2,6 @@
   link: /
 - name: Blog
   link: /blog/index.html
-- name: Recipes
-  link: /recipes.html
 - name: D&D
   link: /dungeons-and-dragons.html
 - name: Contact
@@ -14,6 +12,6 @@
   link: /calendars.html
 - name: About
   link: /about.html
-- name: Notes
-  link: /notes.html
+- name: More
+  link: /more.html
 - name: RSS
