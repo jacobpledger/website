@@ -1,17 +1,41 @@
 - name: Home
   link: /
+  nav: true
+  description: "The homepage. The legend."
 - name: Blog
   link: /blog/index.html
+  nav: true
+  description: "Stuff I want to share."
 - name: D&D
   link: /dungeons-and-dragons.html
+  nav: false
+  description: ""
 - name: Contact
   link: /contact.html
+  nav: true
+  description: ""
 - name: Links
   link: /links.html
-- name: Calendars
-  link: /calendars.html
+  nav: true
+  description: ""
 - name: About
   link: /about.html
+  nav: true
+  description: ""
 - name: More
   link: /more.html
+  nav: true
+  description: ""
 - name: RSS
+- name: Calendars
+  link: calendars.html
+  nav: false
+  description: "Calendars for events I'm tracking that other people might also want to."
+- name: Emoji
+  link: emoji.html
+  nav: false
+  description: "Custom emoji for use around the internet."
+- name: Notes
+  link: notes.html
+  nav: false
+  description: "Notes I felt worth publishing."

@@ -4,7 +4,7 @@ title: More Stuff
 ---
 
 <dl class="site-features-list">
-{% for site_feature in site.data.more %}
+{% for site_feature in site.data.navigation %}
 <dt><a href="{{ site_feature.link }}">{{ site_feature.name }}</a></dt>
 <dd>{{ site_feature.description }}</dd>
 {% endfor %}
