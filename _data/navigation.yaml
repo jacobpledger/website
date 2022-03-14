@@ -22,11 +22,6 @@
   link: /about.html
   nav: true
   description: ""
-- name: More
-  link: /more.html
-  nav: true
-  description: ""
-- name: RSS
 - name: Calendars
   link: calendars.html
   nav: false
@@ -39,3 +34,10 @@
   link: notes.html
   nav: false
   description: "Notes I felt worth publishing."
+- name: RSS
+  nav: true
+  description: "RSS feed for blog entries."
+- name: More
+  link: /more.html
+  nav: true
+  description: ""
