@@ -30,6 +30,10 @@
   link: notes.html
   nav: false
   description: "Notes I felt worth publishing."
+- name: Recipes
+  link: recipes.html
+  nav: false
+  description: "Cooking recipes I've collected."
 - name: RSS
   nav: true
   description: "RSS feed for blog entries."
