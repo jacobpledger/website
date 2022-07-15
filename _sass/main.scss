@@ -19,6 +19,18 @@ html {
       }
     }
     nav {
+      a {
+        color: black;
+        background-color: lightgrey;
+        text-decoration: none;
+        font-family: monospace;
+        border-style: outset;
+        border-color: darkgrey;
+        padding: 2px;
+      }
+      a:hover {
+        background-color: orange;
+      }
       ul {
         padding: 0em;
         li {
