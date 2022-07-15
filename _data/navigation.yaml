@@ -18,10 +18,6 @@
   link: /links.html
   nav: true
   description: ""
-- name: About
-  link: /about.html
-  nav: true
-  description: ""
 - name: Calendars
   link: calendars.html
   nav: false
