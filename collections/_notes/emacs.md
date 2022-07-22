@@ -35,6 +35,11 @@ While in a Magit buffer:
 
 ## Packages
 
+### LSP
+
+`M-x workspace-folders-add`
+`M-x workspace-folders-remove` Remove a folder from LSP tracking.
+
 ### CSS LSP
 <kbd>M-x</kbd>`lsp-install-server`<kbd>`RET`</kbd>`css-ls`<kbd>RET</kbd>
 
