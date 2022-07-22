@@ -14,6 +14,20 @@ New Frame (for same <em>instance</em>): `C-x 5 2`
 Toggle comment on line or region: `C-x C-;`
 Center view on cursor line: `C-l` or `M-x recenter-top-bottom`
 
+```
+C-v (pgup)
+M-v (pgdn)
+
+C-a, C-e (beginning and end of line)
+M-a, M-e (beginning and end of sentence)
+M-<, M-> (beginning and end of text)
+
+C-u <number> repeat next command n times, or prefix argument.
+C-g escape/cancel/halt/stop
+
+```
+
+
 ## In Buffer List:
 Refresh: `g`
 Commit: `x`
