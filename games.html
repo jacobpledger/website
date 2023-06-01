@@ -1,0 +1,11 @@
+---
+layout: default
+title: Games
+---
+<div class="games-list">
+    <ul>
+        {% for item in site.games %}
+        <li><a href="{{ item.url }}" {% if page.url==item.link %}class="current" {% endif %}>{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
