@@ -1,19 +1,16 @@
 ---
 layout: default
-title: Emoji Index
+title: Emoji
 ---
 
+Thumbnailed list <a href="emoji/all-emoji.html">here</a>.
+
 <div class="emoji-container">
-    {% for image in site.static_files %}
-    {% if image.path contains 'images/emoji' %}
-    <div class="labelled-image">
-        <div class="image-container">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" title={{ image.name }} />
-        </div>
-        <div class="image-label">
-            {{ image.name }}
-        </div>
-    </div>
+    <ul>
+        {% for image in site.static_files %}
+        {% if image.path contains 'images/emoji' %}
+        <li><a href="{{ site.baseurl }}{{ image.path }}">{{ image.name }}</a></li>
+    </ul>
     {% endif %}
     {% endfor %}
 </div>

@@ -23,13 +23,9 @@
   nav: false
   description: "Calendars for events I'm tracking that other people might also want to."
 - name: Emoji
-  link: emoji.html
+  link: emoji/index.html
   nav: false
   description: "Custom emoji for use around the internet."
-- name: Emoji list
-  link: /emoji/all.html
-  nav: false
-
 - name: Notes
   link: notes.html
   nav: false
