@@ -1,0 +1,19 @@
+---
+layout: default
+title: Emoji Index
+---
+
+<div class="emoji-container">
+    {% for image in site.static_files %}
+    {% if image.path contains 'images/emoji' %}
+    <div class="labelled-image">
+        <div class="image-container">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" title={{ image.name }} />
+        </div>
+        <div class="image-label">
+            {{ image.name }}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

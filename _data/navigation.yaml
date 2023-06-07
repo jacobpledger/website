@@ -27,7 +27,7 @@
   nav: false
   description: "Custom emoji for use around the internet."
 - name: Emoji list
-  link: /emoji/index.html
+  link: /emoji/all.html
   nav: false
 
 - name: Notes
