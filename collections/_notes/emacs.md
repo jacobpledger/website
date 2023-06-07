@@ -10,17 +10,17 @@ The second most important: <kbd>M-x tetris</kbd>
 
 ## Navigation
 
-<kbd>C-a</kbd> Go to beginning of line (a is at the beginning of the alphabet).
-<kbd>C-b</kbd> Go back one character.
-<kbd>C-e</kbd> Go to end of line.
-<kbd>C-f</kbd> Go forward one character.
-<kbd>M-a</kbd> Go to beginning of paragraph.
-<kbd>M-b</kbd> Go back one word.
-<kbd>M-f</kbd> Go forward one word.
-<kbd>M-e</kbd> Go to end of paragraph.
+<kbd>C-a</kbd> Go to beginning of line (a is at the beginning of the alphabet).  
+<kbd>C-b</kbd> Go back one character.  
+<kbd>C-e</kbd> Go to end of line.  
+<kbd>C-f</kbd> Go forward one character.  
+<kbd>M-a</kbd> Go to beginning of paragraph.  
+<kbd>M-b</kbd> Go back one word.  
+<kbd>M-f</kbd> Go forward one word.  
+<kbd>M-e</kbd> Go to end of paragraph.  
 
 <kbd>M-.</kbd> Go To Definition.  
-<kbd>M-,</kbd> Jump back *from* definition
+<kbd>M-,</kbd> Jump back *from* definition  
 
 ## Editor
 
