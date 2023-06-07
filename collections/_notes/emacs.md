@@ -3,14 +3,34 @@ title: Emacs
 layout: note
 ---
 
-Set Title: `M-x set-frame-name <desired name> RET`  
+The most important command of all: <kbd>M-x butterfly</kbd>  
+The second most important: <kbd>M-x tetris</kbd>  
+
+<kbd>C-h</kbd> is the help prefix. Hitting this and then something else will bring up the help for that thing.
+
+## Navigation
+
+<kbd>C-a</kbd> Go to beginning of line (a is at the beginning of the alphabet).
+<kbd>C-b</kbd> Go back one character.
+<kbd>C-e</kbd> Go to end of line.
+<kbd>C-f</kbd> Go forward one character.
+<kbd>M-a</kbd> Go to beginning of paragraph.
+<kbd>M-b</kbd> Go back one word.
+<kbd>M-f</kbd> Go forward one word.
+<kbd>M-e</kbd> Go to end of paragraph.
+
+<kbd>M-.</kbd> Go To Definition.  
+<kbd>M-,</kbd> Jump back *from* definition
+
+## Editor
+
+Set Title: <kbd>M-x set-frame-name `<desired name>` RET</kbd>
+Vertical Split: <kbd>C-x 3</kbd>  
+Horizontal Split: <kbd>C-x 2</kbd>  
 Reload File: `M-x rev-b RET` or `M-x revert-buffer RET`  
-Go To Definition: `M-.`  
-Jump back *from* definition: `M-,`  
+
 Go to Line: `M-g g` or `M-x goto-line`  
 Display the current line: `M-x what-line`  
-Horizontal Split: `C-x 2`  
-Vertical Split: `C-x 3`  
 New Frame (for same <em>instance</em>): `C-x 5 2`  
 Toggle comment on line or region: `C-x C-;`  
 Center view on cursor line: `C-l` or `M-x recenter-top-bottom`  
@@ -27,7 +47,8 @@ Set mark: `C-SPC` or `C-@` or `M-x set-mark-command`
 
 Cut: `C-w`
 Copy: `M-w`
-Paste: `C-y`
+Paste (yank): `C-y`
+`C-k` kill
 
 ```
 C-v (pgup)
@@ -52,10 +73,10 @@ Ctrl + Alt + Shift + 5 regex replace
 
 
 ## In Buffer List:
-Refresh: `g`
-Commit: `x`
-Mark to kill (close): `k`
-Mark to delete: `d`
+Refresh: <kbd>g</kbd>  
+Commit: <kbd>x</kbd>  
+Mark to kill (close): <kbd>k</kbd>  
+Mark to delete: <kbd>d</kbd>  
 
 ## Projects
 To separate buffer lists between projects, run a separate instance of Emacs, rather than opening a new frame.
@@ -69,11 +90,11 @@ To separate buffer lists between projects, run a separate instance of Emacs, rat
 
 While in a Magit buffer:
 
-`b` to bring up branch commands.
-`F` to bring up pull (fetch) commands.
-`P` to bring up push commands.
-`y` to list branches (`magit-show-refs`)
-	`k` to delete branch
+<kbd>b</kbd> to bring up branch commands.
+<kbd>F</kbd> to bring up pull (fetch) commands.
+<kbd>P</kbd> to bring up push commands.
+<kbd>y</kbd> to list branches (`magit-show-refs`)
+<kbd>k</kbd> to delete branch
 
 ## Packages
 
