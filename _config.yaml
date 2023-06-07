@@ -12,6 +12,8 @@ collections:
     output: true
   notes:
     output: true
+  games:
+    output: true
   positions:
     output: true
 collections_dir: "collections"

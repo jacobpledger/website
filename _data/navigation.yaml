@@ -34,6 +34,10 @@
   link: notes.html
   nav: false
   description: "Notes I felt worth publishing."
+- name: Games
+  link: games.html
+  nav: false
+  description: "Games I've played"
 - name: Recipes
   link: recipes.html
   nav: false
