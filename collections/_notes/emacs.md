@@ -21,17 +21,24 @@ The second most important: <kbd>M-x tetris</kbd>
 
 <kbd>M-.</kbd> Go To Definition.  
 <kbd>M-,</kbd> Jump back *from* definition  
+Go to Line: <kbd>M-g g</kbd> or <kbd>M-x goto-line</kbd>  
+
+## Editing
+
+Cut: <kbd>C-w</kbd>  
+Copy: <kbd>M-w</kbd>  
+Paste (yank): <kbd>C-y</kbd>
+<kbd>C-k</kbd> kill
 
 ## Editor
 
-Set Title: <kbd>M-x set-frame-name `<desired name>` RET</kbd>
+Set Title: <kbd>M-x set-frame-name \<desired name\> RET</kbd>  
+New Frame (for same <em>instance</em>): <kbd>C-x 5 2</kbd>  
 Vertical Split: <kbd>C-x 3</kbd>  
 Horizontal Split: <kbd>C-x 2</kbd>  
-Reload File: `M-x rev-b RET` or `M-x revert-buffer RET`  
+Reload File: <kbd>M-x rev-b RET</kbd> or <kbd>M-x revert-buffer RET</kbd>  
 
-Go to Line: `M-g g` or `M-x goto-line`  
 Display the current line: `M-x what-line`  
-New Frame (for same <em>instance</em>): `C-x 5 2`  
 Toggle comment on line or region: `C-x C-;`  
 Center view on cursor line: `C-l` or `M-x recenter-top-bottom`  
 Count words (region): `M-=` or `M-x count-words-region`  
@@ -45,10 +52,7 @@ Display column number in the mode line**: `M-x column-number-mode`
 
 Set mark: `C-SPC` or `C-@` or `M-x set-mark-command`
 
-Cut: `C-w`
-Copy: `M-w`
-Paste (yank): `C-y`
-`C-k` kill
+
 
 ```
 C-v (pgup)
