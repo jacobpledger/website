@@ -4,23 +4,53 @@ html {
   .current {
     color: black;
   }
+
   min-height: 100%;
   font-family: sans-serif;
   min-width: 320px;
+  line-height: 1.4;
+
   body {
+    color: WindowText;
+
     max-width: 620px;
     margin: 0 auto;
     padding: 1em;
+
     a {
-      color: steelblue;
-      text-decoration: none;
-      &:hover {
-        text-decoration: underline;
+      color: #0074E4;
       }
+
+    kbd {
+        background-color: #eee;
+        border-radius: 3px;
+        border: 1px solid #b4b4b4;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset;
+        color: #333;
+        display: inline-block;
+        font-size: 0.85em;
+        font-weight: 700;
+        line-height: 1;
+        padding: 2px 4px;
+        white-space: nowrap;
     }
+
+    .button {
+      display: block;
+      width: 115px;
+      height: 25px;
+      background: #4E9CAF;
+      padding: 10px;
+      text-align: center;
+      border-radius: 5px;
+      color: white;
+      font-weight: bold;
+      line-height: 25px;
+    }
+
     nav {
       a {
-        color: black;
+        color: ButtonText;
         background-color: lightgrey;
         text-decoration: none;
         font-family: monospace;
@@ -28,41 +58,56 @@ html {
         border-color: darkgrey;
         padding: 2px;
       }
+
       a:hover {
-        background-color: orange;
+        color: ButtonText;
+        background-color: Highlight;
       }
+
+      .current {
+        border-style: inset;
+      }
+
       ul {
         padding: 0em;
+
         li {
           display: inline-block;
         }
       }
     }
+
     hr {
-      background-color:black;
+      background-color: black;
       height: 1px;
     }
   }
+
   section {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
   }
+
   .post-list {
     list-style: none;
   }
+
   .social {
     ul {
       list-style: none;
     }
   }
+
   .soundboard-list {
     list-style: none;
   }
+
   .affiliates {
     ul {
       list-style: none;
     }
   }
+
   .youtube-container {
     overflow: hidden;
     position: relative;
