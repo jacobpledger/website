@@ -1,6 +1,6 @@
 name: jacobpledger.ca
 description: Jacob Pledger's Hypertext Home
-paginate: 8
+paginate: 32
 paginate_path: "/blog/page:num/"
 
 collections:
