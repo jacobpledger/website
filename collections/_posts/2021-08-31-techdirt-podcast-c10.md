@@ -6,6 +6,7 @@ source: Techdirt
 episode_numbeer: 296
 tags: podcast
 type: Podcast
+category: Podcast
 ---
 
 <div class="soundcloud-player">

@@ -90,6 +90,13 @@ html {
 
   .post-list {
     list-style: none;
+    .post_item {
+      display: flex;
+      flex-direction: row;
+    }
+    .post_category {
+      padding-right: 0.5em;
+    }
     li {
       display: flex;
       flex-direction: column;
