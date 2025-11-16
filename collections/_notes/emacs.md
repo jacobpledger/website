@@ -23,6 +23,10 @@ The second most important: <kbd>M-x tetris</kbd>
 <kbd>M-,</kbd> Jump back *from* definition  
 Go to Line: <kbd>M-g g</kbd> or <kbd>M-x goto-line</kbd>  
 
+## Window Management
+
+<kbd>C-x 0</kbd> Run command `delete-window`. Close current window.
+
 ## Editing
 
 Cut: <kbd>C-w</kbd>  
