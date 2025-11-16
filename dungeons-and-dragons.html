@@ -3,10 +3,12 @@ layout: default
 title: Dungeons & Dragons
 ---
 <div class="post-list">
-<h2>Player Characters</h2>
 <ul>
     {% for item in site.dungeons-and-dragons %}
     {% if item.category == "player" %}
+      <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
+    {% endif %}
+    {% if item.category == "statblock" %}
       <li><a href="{{ item.url }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.title }}</a></li>
     {% endif %}
     {% endfor %}
