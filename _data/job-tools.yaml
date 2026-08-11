@@ -1,5 +1,7 @@
 - name: Amazon Web Services
   link: https://aws.amazon.com
+- name: Ansible
+  link: https://www.ansible.com/
 - name: Apache NiFi
   link: https://nifi.apache.org
 - name: Celery
