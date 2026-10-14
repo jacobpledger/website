@@ -1,0 +1,10 @@
+#!/usr/bin/zsh
+
+# Install the latest and greatest:
+brew install ruby
+
+# Add the new Ruby to your path:
+echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+
+# Load the new Ruby into your shell environment
+source ~/.zshrc
