@@ -6,10 +6,6 @@
   link: /blog/index.html
   nav: true
   description: "Stuff I want to share."
-- name: D&D
-  link: /dungeons-and-dragons.html
-  nav: false
-  description: ""
 - name: Contact
   link: /contact.html
   nav: true
