@@ -4,8 +4,6 @@ paginate: 32
 paginate_path: "/blog/page:num/"
 
 collections:
-  dungeons-and-dragons:
-    output: true
   posts:
     output: true
   recipes:
