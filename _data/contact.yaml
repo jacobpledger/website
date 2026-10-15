@@ -2,6 +2,8 @@
   value: mail@jacobpledger.ca
 - name: Github
   value: https://github.com/jacobpledger
+- name: LinkedIn
+  value: https://www.linkedin.com/in/jacobpledger/
 - name: Keybase
   value: https://keybase.io/jacobpledger
 - name: Steam
