@@ -1,5 +1,5 @@
 - name: "Email Me"
-  value: mail@jacobpledger.ca
+  value: mailto:mail@jacobpledger.ca
 - name: Github
   value: https://github.com/jacobpledger
 - name: LinkedIn
