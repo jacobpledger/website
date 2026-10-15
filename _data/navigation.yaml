@@ -38,6 +38,7 @@
   link: resume.html
   nav: true
 - name: RSS
+  link: feed.xml
   nav: true
   description: "RSS feed for blog entries."
 - name: More
