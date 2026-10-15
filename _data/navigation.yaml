@@ -2,10 +2,6 @@
   link: /
   nav: true
   description: "The homepage. The legend."
-- name: Blog
-  link: /blog/index.html
-  nav: true
-  description: "Stuff I want to share."
 - name: Contact
   link: /contact.html
   nav: true
