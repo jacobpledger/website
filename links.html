@@ -3,6 +3,15 @@ layout: default
 title: Links
 ---
 <h1>Links</h1>
+
+<dl class="site-features-list">
+{% for site_feature in site.data.navigation %}
+<dt><a href="{{ site_feature.link }}">{{ site_feature.name }}</a></dt>
+<dd>{{ site_feature.description }}</dd>
+{% endfor %}
+
+<hr>
+
 These links are for services I use that give me credit if you use them to sign up:
 {% include affiliates.html %}
 

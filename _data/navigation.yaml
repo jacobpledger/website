@@ -2,10 +2,13 @@
   link: /
   nav: true
   description: "The homepage. The legend."
+- name: Résumé
+  link: resume.html
+  nav: true
 - name: Contact
   link: /contact.html
   nav: true
-  description: ""
+  description: "Me around the web."
 - name: Links
   link: /links.html
   nav: true
@@ -30,14 +33,7 @@
   link: recipes.html
   nav: false
   description: "Cooking recipes I've collected."
-- name: Résumé
-  link: resume.html
-  nav: true
 - name: RSS
   link: feed.xml
   nav: true
   description: "RSS feed for blog entries."
-- name: More
-  link: /more.html
-  nav: true
-  description: ""
