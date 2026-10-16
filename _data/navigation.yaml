@@ -5,14 +5,15 @@
 - name: Résumé
   link: resume.html
   nav: true
+  description: "My general work history and experience."
 - name: Contact
   link: /contact.html
   nav: true
-  description: "Me around the web."
+  description: "How to get in touch with me around the web."
 - name: Links
   link: /links.html
   nav: true
-  description: ""
+  description: "A basic sitemap."
 - name: Calendars
   link: calendars.html
   nav: false

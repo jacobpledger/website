@@ -6,8 +6,10 @@ title: Links
 
 <dl class="site-features-list">
 {% for site_feature in site.data.navigation %}
+{% unless site_feature.nav %}
 <dt><a href="{{ site_feature.link }}">{{ site_feature.name }}</a></dt>
 <dd>{{ site_feature.description }}</dd>
+{% endunless %}
 {% endfor %}
 
 <hr>
