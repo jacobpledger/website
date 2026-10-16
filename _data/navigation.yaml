@@ -2,6 +2,10 @@
   link: /
   nav: true
   description: "The homepage. The legend."
+- name: Bookmarks
+  link: /bookmarks.html
+  nav: false
+  description: "A semi-curated bookmarks list. This is a valid bookmarks file that you can download and import into your browser, if you feel so inclined."
 - name: Résumé
   link: resume.html
   nav: true
