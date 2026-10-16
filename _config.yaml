@@ -8,8 +8,6 @@ collections:
     output: true
   recipes:
     output: true
-  notes:
-    output: true
   games:
     output: true
   positions:

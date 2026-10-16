@@ -26,10 +26,6 @@
   link: emoji/index.html
   nav: false
   description: "Custom emoji for use around the internet."
-- name: Notes
-  link: notes.html
-  nav: false
-  description: "Notes I felt worth publishing."
 - name: Games
   link: games.html
   nav: false
