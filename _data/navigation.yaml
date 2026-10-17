@@ -7,7 +7,7 @@
   nav: false
   description: "A semi-curated bookmarks list. This is a valid bookmarks file that you can download and import into your browser, if you feel so inclined."
 - name: Résumé
-  link: resume.html
+  link: /resume.html
   nav: true
   description: "My general work history and experience."
 - name: Contact
