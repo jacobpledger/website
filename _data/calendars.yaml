@@ -1,6 +1,9 @@
-- name: Ubuntu Releases
-  link: "https://user.fm/calendar/v1-03bf938c6d0d768e30f3174687f1f661/Ubuntu%20Releases.ics"
-  description: "Ubuntu release dates"
 - name: "Magic: The Gathering"
   link: "https://user.fm/calendar/v1-b7b4fc1db8b5bdf5dc13292f6cdd20fd/Magic%3A%20The%20Gathering.ics"
   description: "Magic: The Gathering set release dates"
+- name: Ubuntu Releases
+  link: "https://user.fm/calendar/v1-03bf938c6d0d768e30f3174687f1f661/Ubuntu%20Releases.ics"
+  description: "Ubuntu release dates"
+- name: Video Game Releases
+  link: "https://user.fm/calendar/v1-84f31904eb603849fb493ab786c7c62a/Video%20Game%20Releases.ics"
+  description: "Video game release dates."
