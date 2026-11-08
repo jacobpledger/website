@@ -7,9 +7,9 @@ layout: default
 {{ content }}
 
 <ul>
-    {% if page.pocket_casts %}<li><a href="">{{ page.pocket_casts }}</a></li>{% endif %}
-    {% if page.spotify %}<li><a href="">{{ page.spotify }}</a></li>{% endif %}
-    {% if page.overcast %}<li><a href="">{{ page.overcast }}</a></li>{% endif %}
+    {% if page.pocket_casts %}<li><a href="{{ page.pocket_casts }}">Pocket Casts</a></li>{% endif %}
+    {% if page.spotify %}<li><a href="{{ page.spotify }}">Spotify</a></li>{% endif %}
+    {% if page.overcast %}<li><a href="{{ page.overcast }}">Overcast</a></li>{% endif %}
 </ul>
 
 <section class="permalink">
