@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1><a href="{{ page.external_link | default: page.url }}">{{ page.title }}</a></h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+{{ content }}
+
+<ul>
+    {% if page.pocket_casts %}<li><a href="">{{ page.pocket_casts }}</a></li>{% endif %}
+    {% if page.spotify %}<li><a href="">{{ page.spotify }}</a></li>% endif %}
+    {% if page.overcast %}<li><a href="">{{ page.overcast }}</a></li>% endif %}
+</ul>
+
+<section class="permalink">
+    <a href="{{ page.url }}">link to this post</a>
+</section>
