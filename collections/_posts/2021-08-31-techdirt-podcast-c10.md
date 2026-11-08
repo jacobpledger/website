@@ -1,11 +1,11 @@
 ---
 external_link: https://www.techdirt.com/articles/20210831/10172547474/techdirt-podcast-episode-296-internet-policy-canadian-election.shtml
 title: "Episode 296: Internet Policy & The Canadian Election"
-layout: post
+layout: podcast_episode
 source: Techdirt
 episode_numbeer: 296
+apple_podcasts: "https://podcasts.apple.com/ca/podcast/internet-policy-the-canadian-election/id940871872?i=1000533900042"
 tags: podcast
-type: Podcast
 category: Podcast
 ---
 
