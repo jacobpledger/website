@@ -3,6 +3,7 @@ layout: post
 title: GCP Grey - Spaceship You
 external_link: "https://www.youtube.com/watch?v=snAhsXyO3Ck"
 source: YouTube
+category: Video
 ---
 
 A great video. And these concepts are relevant even when <em>not</em> in quarantine.
